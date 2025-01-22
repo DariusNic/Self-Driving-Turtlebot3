@@ -1,0 +1,2 @@
+Invoking command in '/home/darius/turtlebot3_ws/build/line_follower': /usr/bin/cmake /home/darius/turtlebot3_ws/src/riabot/line_follower -DCATKIN_INSTALL_INTO_PREFIX_ROOT=0 -DCMAKE_INSTALL_PREFIX=/home/darius/turtlebot3_ws/install/line_follower
+Invoked command in '/home/darius/turtlebot3_ws/build/line_follower' returned '1': /usr/bin/cmake /home/darius/turtlebot3_ws/src/riabot/line_follower -DCATKIN_INSTALL_INTO_PREFIX_ROOT=0 -DCMAKE_INSTALL_PREFIX=/home/darius/turtlebot3_ws/install/line_follower

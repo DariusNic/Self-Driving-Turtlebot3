@@ -1,0 +1,22 @@
+[0.867s] Invoking command in '/home/darius/turtlebot3_ws/build/turtlebot3_example': AMENT_PREFIX_PATH=/home/darius/turtlebot3_ws/install/turtlebot3_msgs:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/darius/turtlebot3_ws/install/turtlebot3_msgs LD_LIBRARY_PATH=/home/darius/turtlebot3_ws/install/turtlebot3_msgs/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/darius/turtlebot3_ws/build/turtlebot3_example/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/darius/turtlebot3_ws/install/turtlebot3_example/lib/python3.10/site-packages:/home/darius/turtlebot3_ws/install/turtlebot3_msgs/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/darius/turtlebot3_ws/build/turtlebot3_example/build --no-deps symlink_data --force
+[1.195s] running develop
+[1.402s] running egg_info
+[1.402s] writing turtlebot3_example.egg-info/PKG-INFO
+[1.402s] writing dependency_links to turtlebot3_example.egg-info/dependency_links.txt
+[1.402s] writing entry points to turtlebot3_example.egg-info/entry_points.txt
+[1.402s] writing requirements to turtlebot3_example.egg-info/requires.txt
+[1.403s] writing top-level names to turtlebot3_example.egg-info/top_level.txt
+[1.405s] reading manifest file 'turtlebot3_example.egg-info/SOURCES.txt'
+[1.406s] writing manifest file 'turtlebot3_example.egg-info/SOURCES.txt'
+[1.408s] running build_ext
+[1.408s] Creating /home/darius/turtlebot3_ws/install/turtlebot3_example/lib/python3.10/site-packages/turtlebot3-example.egg-link (link to .)
+[1.409s] Installing turtlebot3_obstacle_detection script to /home/darius/turtlebot3_ws/install/turtlebot3_example/lib/turtlebot3_example
+[1.410s] Installing turtlebot3_patrol_client script to /home/darius/turtlebot3_ws/install/turtlebot3_example/lib/turtlebot3_example
+[1.410s] Installing turtlebot3_patrol_server script to /home/darius/turtlebot3_ws/install/turtlebot3_example/lib/turtlebot3_example
+[1.410s] Installing turtlebot3_position_control script to /home/darius/turtlebot3_ws/install/turtlebot3_example/lib/turtlebot3_example
+[1.411s] 
+[1.411s] Installed /home/darius/turtlebot3_ws/build/turtlebot3_example
+[1.411s] running symlink_data
+[1.411s] symbolically linking /home/darius/turtlebot3_ws/build/turtlebot3_example/resource/turtlebot3_example -> /home/darius/turtlebot3_ws/install/turtlebot3_example/share/ament_index/resource_index/packages
+[1.411s] symbolically linking /home/darius/turtlebot3_ws/build/turtlebot3_example/package.xml -> /home/darius/turtlebot3_ws/install/turtlebot3_example/share/turtlebot3_example
+[1.454s] Invoked command in '/home/darius/turtlebot3_ws/build/turtlebot3_example' returned '0': AMENT_PREFIX_PATH=/home/darius/turtlebot3_ws/install/turtlebot3_msgs:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/darius/turtlebot3_ws/install/turtlebot3_msgs LD_LIBRARY_PATH=/home/darius/turtlebot3_ws/install/turtlebot3_msgs/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/darius/turtlebot3_ws/build/turtlebot3_example/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/darius/turtlebot3_ws/install/turtlebot3_example/lib/python3.10/site-packages:/home/darius/turtlebot3_ws/install/turtlebot3_msgs/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/darius/turtlebot3_ws/build/turtlebot3_example/build --no-deps symlink_data --force

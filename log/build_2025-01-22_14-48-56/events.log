@@ -1,0 +1,156 @@
+[0.000000] (-) TimerEvent: {}
+[0.003013] (-) JobUnselected: {'identifier': 'citysim'}
+[0.003125] (-) JobUnselected: {'identifier': 'duckietown_description'}
+[0.003190] (-) JobUnselected: {'identifier': 'duckietown_gazebo'}
+[0.003241] (-) JobUnselected: {'identifier': 'dynamixel_sdk'}
+[0.003290] (-) JobUnselected: {'identifier': 'dynamixel_sdk_custom_interfaces'}
+[0.003337] (-) JobUnselected: {'identifier': 'dynamixel_sdk_examples'}
+[0.005210] (-) JobUnselected: {'identifier': 'grass_plane'}
+[0.005662] (-) JobUnselected: {'identifier': 'line_follower'}
+[0.005728] (-) JobUnselected: {'identifier': 'turtlebot3'}
+[0.005772] (-) JobUnselected: {'identifier': 'turtlebot3_bringup'}
+[0.005808] (-) JobUnselected: {'identifier': 'turtlebot3_cartographer'}
+[0.005838] (-) JobUnselected: {'identifier': 'turtlebot3_description'}
+[0.005863] (-) JobUnselected: {'identifier': 'turtlebot3_example'}
+[0.005893] (-) JobUnselected: {'identifier': 'turtlebot3_fake_node'}
+[0.005926] (-) JobUnselected: {'identifier': 'turtlebot3_gazebo'}
+[0.005953] (-) JobUnselected: {'identifier': 'turtlebot3_msgs'}
+[0.005977] (-) JobUnselected: {'identifier': 'turtlebot3_navigation2'}
+[0.006000] (-) JobUnselected: {'identifier': 'turtlebot3_node'}
+[0.006024] (-) JobUnselected: {'identifier': 'turtlebot3_simulations'}
+[0.006051] (-) JobUnselected: {'identifier': 'turtlebot3_teleop'}
+[0.006075] (-) JobUnselected: {'identifier': 'vrc_heightmap_1'}
+[0.006106] (Autobot_Ver1) JobQueued: {'identifier': 'Autobot_Ver1', 'dependencies': OrderedDict()}
+[0.006162] (Autobot_Ver1) JobStarted: {'identifier': 'Autobot_Ver1'}
+[0.099615] (-) TimerEvent: {}
+[0.200407] (-) TimerEvent: {}
+[0.309093] (-) TimerEvent: {}
+[0.409909] (-) TimerEvent: {}
+[0.510349] (-) TimerEvent: {}
+[0.612022] (-) TimerEvent: {}
+[0.719117] (-) TimerEvent: {}
+[0.819782] (-) TimerEvent: {}
+[0.923012] (-) TimerEvent: {}
+[1.037428] (-) TimerEvent: {}
+[1.138573] (-) TimerEvent: {}
+[1.242838] (-) TimerEvent: {}
+[1.352301] (-) TimerEvent: {}
+[1.454489] (-) TimerEvent: {}
+[1.555108] (-) TimerEvent: {}
+[1.661497] (-) TimerEvent: {}
+[1.773604] (-) TimerEvent: {}
+[1.876812] (-) TimerEvent: {}
+[1.988018] (-) TimerEvent: {}
+[2.088564] (-) TimerEvent: {}
+[2.189248] (-) TimerEvent: {}
+[2.293303] (-) TimerEvent: {}
+[2.408223] (-) TimerEvent: {}
+[2.512285] (-) TimerEvent: {}
+[2.624842] (-) TimerEvent: {}
+[2.725318] (-) TimerEvent: {}
+[2.826339] (-) TimerEvent: {}
+[2.926821] (-) TimerEvent: {}
+[3.032050] (-) TimerEvent: {}
+[3.149180] (-) TimerEvent: {}
+[3.253205] (-) TimerEvent: {}
+[3.353978] (-) TimerEvent: {}
+[3.454633] (-) TimerEvent: {}
+[3.555340] (-) TimerEvent: {}
+[3.657552] (-) TimerEvent: {}
+[3.763101] (-) TimerEvent: {}
+[3.864717] (-) TimerEvent: {}
+[3.965867] (-) TimerEvent: {}
+[4.071827] (-) TimerEvent: {}
+[4.174914] (-) TimerEvent: {}
+[4.279543] (-) TimerEvent: {}
+[4.395677] (-) TimerEvent: {}
+[4.499035] (-) TimerEvent: {}
+[4.609977] (-) TimerEvent: {}
+[4.715323] (-) TimerEvent: {}
+[4.825252] (-) TimerEvent: {}
+[4.926068] (-) TimerEvent: {}
+[5.045729] (-) TimerEvent: {}
+[5.147396] (-) TimerEvent: {}
+[5.247933] (-) TimerEvent: {}
+[5.353408] (-) TimerEvent: {}
+[5.468067] (-) TimerEvent: {}
+[5.569932] (-) TimerEvent: {}
+[5.674024] (-) TimerEvent: {}
+[5.787523] (-) TimerEvent: {}
+[5.888026] (-) TimerEvent: {}
+[5.990415] (-) TimerEvent: {}
+[6.114459] (-) TimerEvent: {}
+[6.225297] (-) TimerEvent: {}
+[6.325747] (-) TimerEvent: {}
+[6.434282] (-) TimerEvent: {}
+[6.534724] (-) TimerEvent: {}
+[6.635168] (-) TimerEvent: {}
+[6.735900] (-) TimerEvent: {}
+[6.836451] (-) TimerEvent: {}
+[6.942685] (-) TimerEvent: {}
+[7.053204] (-) TimerEvent: {}
+[7.155350] (-) TimerEvent: {}
+[7.261853] (-) TimerEvent: {}
+[7.362980] (-) TimerEvent: {}
+[7.469423] (-) TimerEvent: {}
+[7.570219] (-) TimerEvent: {}
+[7.589325] (Autobot_Ver1) Command: {'cmd': ['/usr/bin/python3', '-W', 'ignore:setup.py install is deprecated', '-W', 'ignore:easy_install command is deprecated', 'setup.py', 'egg_info', '--egg-base', '../../build/Autobot_Ver1', 'build', '--build-base', '/home/darius/turtlebot3_ws/build/Autobot_Ver1/build', 'install', '--record', '/home/darius/turtlebot3_ws/build/Autobot_Ver1/install.log', '--single-version-externally-managed', 'install_data'], 'cwd': '/home/darius/turtlebot3_ws/src/Autobot_Ver1', 'env': {'LESSOPEN': '| /usr/bin/lesspipe %s', 'USER': 'darius', 'LC_TIME': 'ro_RO.UTF-8', 'XDG_SESSION_TYPE': 'wayland', 'SHLVL': '1', 'LD_LIBRARY_PATH': '/home/darius/turtlebot3_ws/install/turtlebot3_msgs/lib:/home/darius/turtlebot3_ws/install/dynamixel_sdk_custom_interfaces/lib:/home/darius/turtlebot3_ws/install/dynamixel_sdk/lib:/usr/lib/x86_64-linux-gnu/gazebo-11/plugins:/opt/ros/humble/opt/rviz_ogre_vendor/lib:/opt/ros/humble/lib/x86_64-linux-gnu:/opt/ros/humble/lib:/usr/lib/x86_64-linux-gnu/gazebo-11/plugins::/usr/lib/x86_64-linux-gnu/gazebo-11/plugins:/usr/lib/x86_64-linux-gnu/gazebo-11/plugins::/usr/lib/x86_64-linux-gnu/gazebo-11/plugins:/usr/lib/x86_64-linux-gnu/gazebo-11/plugins:/usr/lib/x86_64-linux-gnu/gazebo-11/plugins::/usr/lib/x86_64-linux-gnu/gazebo-11/plugins:/usr/lib/x86_64-linux-gnu/gazebo-11/plugins:/usr/lib/x86_64-linux-gnu/gazebo-11/plugins:/usr/lib/x86_64-linux-gnu/gazebo-11/plugins::/usr/lib/x86_64-linux-gnu/gazebo-11/plugins:/usr/lib/x86_64-linux-gnu/gazebo-11/plugins:/usr/lib/x86_64-linux-gnu/gazebo-11/plugins:/usr/lib/x86_64-linux-gnu/gazebo-11/plugins:/usr/lib/x86_64-linux-gnu/gazebo-11/plugins::/usr/lib/x86_64-linux-gnu/gazebo-11/plugins:/usr/lib/x86_64-linux-gnu/gazebo-11/plugins:/usr/lib/x86_64-linux-gnu/gazebo-11/plugins:/usr/lib/x86_64-linux-gnu/gazebo-11/plugins:/usr/lib/x86_64-linux-gnu/gazebo-11/plugins:/usr/lib/x86_64-linux-gnu/gazebo-11/plugins::/usr/lib/x86_64-linux-gnu/gazebo-11/plugins:/usr/lib/x86_64-linux-gnu/gazebo-11/plugins:/usr/lib/x86_64-linux-gnu/gazebo-11/plugins:/usr/lib/x86_64-linux-gnu/gazebo-11/plugins:/usr/lib/x86_64-linux-gnu/gazebo-11/plugins:/usr/lib/x86_64-linux-gnu/gazebo-11/plugins:/usr/lib/x86_64-linux-gnu/gazebo-11/plugins::/usr/lib/x86_64-linux-gnu/gazebo-11/plugins:/usr/lib/x86_64-linux-gnu/gazebo-11/plugins:/usr/lib/x86_64-linux-gnu/gazebo-11/plugins:/usr/lib/x86_64-linux-gnu/gazebo-11/plugins:/usr/lib/x86_64-linux-gnu/gazebo-11/plugins:/usr/lib/x86_64-linux-gnu/gazebo-11/plugins:/usr/lib/x86_64-linux-gnu/gazebo-11/plugins:/usr/lib/x86_64-linux-gnu/gazebo-11/plugins::/usr/lib/x86_64-linux-gnu/gazebo-11/plugins:/usr/lib/x86_64-linux-gnu/gazebo-11/plugins:/usr/lib/x86_64-linux-gnu/gazebo-11/plugins:/usr/lib/x86_64-linux-gnu/gazebo-11/plugins:/usr/lib/x86_64-linux-gnu/gazebo-11/plugins:/usr/lib/x86_64-linux-gnu/gazebo-11/plugins:/usr/lib/x86_64-linux-gnu/gazebo-11/plugins:/usr/lib/x86_64-linux-gnu/gazebo-11/plugins:/usr/lib/x86_64-linux-gnu/gazebo-11/plugins:', 'HOME': '/home/darius', 'OLDPWD': '/home/darius', 'DESKTOP_SESSION': 'ubuntu', 'GAZEBO_MASTER_URI': 'http://localhost:11345', 'ROS_PYTHON_VERSION': '3', 'GNOME_SHELL_SESSION_MODE': 'ubuntu', 'GTK_MODULES': 'gail:atk-bridge', 'LC_MONETARY': 'ro_RO.UTF-8', 'SYSTEMD_EXEC_PID': '1270', 'DBUS_SESSION_BUS_ADDRESS': 'unix:path=/run/user/1000/bus', 'COLORTERM': 'truecolor', 'IM_CONFIG_PHASE': '1', 'WAYLAND_DISPLAY': 'wayland-0', 'COLCON_PREFIX_PATH': '/home/darius/turtlebot3_ws/install', 'ROS_DISTRO': 'humble', 'LOGNAME': 'darius', '_': '/usr/bin/colcon', 'ROS_VERSION': '2', 'XDG_SESSION_CLASS': 'user', 'USERNAME': 'darius', 'TERM': 'xterm-256color', 'GAZEBO_MODEL_PATH': '/usr/share/gazebo-11/models:/usr/share/gazebo-11/models:/usr/share/gazebo-11/models:/usr/share/gazebo-11/models:/usr/share/gazebo-11/models:/usr/share/gazebo-11/models:/usr/share/gazebo-11/models:/usr/share/gazebo-11/models:/usr/share/gazebo-11/models::/home/darius/turtlebot3_ws/src/gazebo_models_worlds_collection/models:/home/darius/turtlebot3_ws/src/riabot/duckietown_gazebo/models:/home/darius/home/darius/turtlebot3_ws/src/citysim/models:/home/darius/turtlebot3_ws/src/gazebo_models_worlds_collection/models:/home/darius/turtlebot3_ws/src/riabot/duckietown_gazebo/models:/home/darius/home/darius/turtlebot3_ws/src/citysim/models:/home/darius/turtlebot3_ws/src/gazebo_models_worlds_collection/models:/home/darius/turtlebot3_ws/src/riabot/duckietown_gazebo/models:/home/darius/home/darius/turtlebot3_ws/src/citysim/models:/home/darius/turtlebot3_ws/src/gazebo_models_worlds_collection/models:/home/darius/turtlebot3_ws/src/riabot/duckietown_gazebo/models:/home/darius/home/darius/turtlebot3_ws/src/citysim/models:/home/darius/turtlebot3_ws/src/gazebo_models_worlds_collection/models:/home/darius/turtlebot3_ws/src/riabot/duckietown_gazebo/models:/home/darius/home/darius/turtlebot3_ws/src/citysim/models:/home/darius/turtlebot3_ws/src/gazebo_models_worlds_collection/models:/home/darius/turtlebot3_ws/src/riabot/duckietown_gazebo/models:/home/darius/home/darius/turtlebot3_ws/src/citysim/models:/home/darius/turtlebot3_ws/src/gazebo_models_worlds_collection/models:/home/darius/turtlebot3_ws/src/riabot/duckietown_gazebo/models:/home/darius/home/darius/turtlebot3_ws/src/citysim/models:/home/darius/turtlebot3_ws/src/gazebo_models_worlds_collection/models:/home/darius/turtlebot3_ws/src/riabot/duckietown_gazebo/models:/home/darius/home/darius/turtlebot3_ws/src/citysim/models:/home/darius/turtlebot3_ws/src/gazebo_models_worlds_collection/models:/home/darius/turtlebot3_ws/src/riabot/duckietown_gazebo/models:/home/darius/home/darius/turtlebot3_ws/src/citysim/models', 'GNOME_DESKTOP_SESSION_ID': 'this-is-deprecated', 'ROS_LOCALHOST_ONLY': '0', 'OGRE_RESOURCE_PATH': '/usr/lib/x86_64-linux-gnu/OGRE-1.9.0', 'PATH': '/opt/ros/humble/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin:/snap/bin', 'SESSION_MANAGER': 'local/dariusPC:@/tmp/.ICE-unix/928,unix/dariusPC:/tmp/.ICE-unix/928', 'XDG_MENU_PREFIX': 'gnome-', 'LC_ADDRESS': 'ro_RO.UTF-8', 'GNOME_TERMINAL_SCREEN': '/org/gnome/Terminal/screen/544e4bba_1565_42e3_84a1_ff7c7a193fbd', 'GNOME_SETUP_DISPLAY': ':1', 'XDG_RUNTIME_DIR': '/run/user/1000', 'DISPLAY': ':0', 'LANG': 'en_US.UTF-8', 'XDG_CURRENT_DESKTOP': 'ubuntu:GNOME', 'LC_TELEPHONE': 'ro_RO.UTF-8', 'XMODIFIERS': '@im=ibus', 'XDG_SESSION_DESKTOP': 'ubuntu', 'XAUTHORITY': '/run/user/1000/.mutter-Xwaylandauth.IPPA12', 'LS_COLORS': 'rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=00:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.zst=01;31:*.tzst=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.wim=01;31:*.swm=01;31:*.dwm=01;31:*.esd=01;31:*.jpg=01;35:*.jpeg=01;35:*.mjpg=01;35:*.mjpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.webp=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=00;36:*.au=00;36:*.flac=00;36:*.m4a=00;36:*.mid=00;36:*.midi=00;36:*.mka=00;36:*.mp3=00;36:*.mpc=00;36:*.ogg=00;36:*.ra=00;36:*.wav=00;36:*.oga=00;36:*.opus=00;36:*.spx=00;36:*.xspf=00;36:', 'GNOME_TERMINAL_SERVICE': ':1.115', 'SSH_AGENT_LAUNCHER': 'gnome-keyring', 'SSH_AUTH_SOCK': '/run/user/1000/keyring/ssh', 'ROS_DOMAIN_ID': '30', 'AMENT_PREFIX_PATH': '/home/darius/turtlebot3_ws/install/turtlebot3:/home/darius/turtlebot3_ws/install/turtlebot3_teleop:/home/darius/turtlebot3_ws/install/turtlebot3_simulations:/home/darius/turtlebot3_ws/install/turtlebot3_bringup:/home/darius/turtlebot3_ws/install/turtlebot3_node:/home/darius/turtlebot3_ws/install/turtlebot3_navigation2:/home/darius/turtlebot3_ws/install/turtlebot3_fake_node:/home/darius/turtlebot3_ws/install/turtlebot3_example:/home/darius/turtlebot3_ws/install/turtlebot3_msgs:/home/darius/turtlebot3_ws/install/turtlebot3_gazebo:/home/darius/turtlebot3_ws/install/turtlebot3_description:/home/darius/turtlebot3_ws/install/turtlebot3_cartographer:/home/darius/turtlebot3_ws/install/dynamixel_sdk_examples:/home/darius/turtlebot3_ws/install/dynamixel_sdk_custom_interfaces:/home/darius/turtlebot3_ws/install/dynamixel_sdk:/home/darius/turtlebot3_ws/install/Autobot_Ver1:/opt/ros/humble', 'SHELL': '/bin/bash', 'LC_NAME': 'ro_RO.UTF-8', 'QT_ACCESSIBILITY': '1', 'GDMSESSION': 'ubuntu', 'LESSCLOSE': '/usr/bin/lesspipe %s %s', 'LC_MEASUREMENT': 'ro_RO.UTF-8', 'GAZEBO_RESOURCE_PATH': '/usr/share/gazebo-11:/usr/share/gazebo-11:/usr/share/gazebo-11:/usr/share/gazebo-11:/usr/share/gazebo-11:/usr/share/gazebo-11:/usr/share/gazebo-11:/usr/share/gazebo-11:/usr/share/gazebo-11::/home/darius/turtlebot3_ws/src/gazebo_models_worlds_collection/models:/home/darius/turtlebot3_ws/src/gazebo_models_worlds_collection/models:/home/darius/turtlebot3_ws/src/gazebo_models_worlds_collection/models:/home/darius/turtlebot3_ws/src/gazebo_models_worlds_collection/models:/home/darius/turtlebot3_ws/src/gazebo_models_worlds_collection/models:/home/darius/turtlebot3_ws/src/gazebo_models_worlds_collection/models:/home/darius/turtlebot3_ws/src/gazebo_models_worlds_collection/models:/home/darius/turtlebot3_ws/src/gazebo_models_worlds_collection/models:/home/darius/turtlebot3_ws/src/gazebo_models_worlds_collection/models', 'LC_IDENTIFICATION': 'ro_RO.UTF-8', 'GAZEBO_MODEL_DATABASE_URI': 'http://models.gazebosim.org', 'QT_IM_MODULE': 'ibus', 'PWD': '/home/darius/turtlebot3_ws/build/Autobot_Ver1', 'LC_ALL': 'en_US.UTF-8', 'XDG_CONFIG_DIRS': '/etc/xdg/xdg-ubuntu:/etc/xdg', 'GAZEBO_PLUGIN_PATH': '/usr/lib/x86_64-linux-gnu/gazebo-11/plugins:/usr/lib/x86_64-linux-gnu/gazebo-11/plugins:/usr/lib/x86_64-linux-gnu/gazebo-11/plugins:/usr/lib/x86_64-linux-gnu/gazebo-11/plugins:/usr/lib/x86_64-linux-gnu/gazebo-11/plugins:/usr/lib/x86_64-linux-gnu/gazebo-11/plugins:/usr/lib/x86_64-linux-gnu/gazebo-11/plugins:/usr/lib/x86_64-linux-gnu/gazebo-11/plugins:/usr/lib/x86_64-linux-gnu/gazebo-11/plugins:', 'XDG_DATA_DIRS': '/usr/share/ubuntu:/usr/local/share/:/usr/share/:/var/lib/snapd/desktop', 'PYTHONPATH': '/home/darius/turtlebot3_ws/build/Autobot_Ver1/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/darius/turtlebot3_ws/install/Autobot_Ver1/lib/python3.10/site-packages:/home/darius/turtlebot3_ws/install/turtlebot3_teleop/lib/python3.10/site-packages:/home/darius/turtlebot3_ws/install/turtlebot3_example/lib/python3.10/site-packages:/home/darius/turtlebot3_ws/install/turtlebot3_msgs/local/lib/python3.10/dist-packages:/home/darius/turtlebot3_ws/install/dynamixel_sdk_custom_interfaces/local/lib/python3.10/dist-packages:/home/darius/turtlebot3_ws/install/Autobot_Ver1/lib/python3.10/site-packages:/opt/ros/humble/lib/python3.10/site-packages:/opt/ros/humble/local/lib/python3.10/dist-packages', 'LC_NUMERIC': 'ro_RO.UTF-8', 'LC_PAPER': 'ro_RO.UTF-8', 'COLCON': '1', 'VTE_VERSION': '6800', 'CMAKE_PREFIX_PATH': '/home/darius/turtlebot3_ws/install/turtlebot3:/home/darius/turtlebot3_ws/install/turtlebot3_simulations:/home/darius/turtlebot3_ws/install/turtlebot3_bringup:/home/darius/turtlebot3_ws/install/turtlebot3_node:/home/darius/turtlebot3_ws/install/turtlebot3_navigation2:/home/darius/turtlebot3_ws/install/turtlebot3_fake_node:/home/darius/turtlebot3_ws/install/turtlebot3_msgs:/home/darius/turtlebot3_ws/install/turtlebot3_gazebo:/home/darius/turtlebot3_ws/install/turtlebot3_description:/home/darius/turtlebot3_ws/install/turtlebot3_cartographer:/home/darius/turtlebot3_ws/install/dynamixel_sdk_examples:/home/darius/turtlebot3_ws/install/dynamixel_sdk_custom_interfaces:/home/darius/turtlebot3_ws/install/dynamixel_sdk'}, 'shell': False}
+[7.670421] (-) TimerEvent: {}
+[7.771067] (-) TimerEvent: {}
+[7.871782] (-) TimerEvent: {}
+[7.972243] (-) TimerEvent: {}
+[8.073340] (-) TimerEvent: {}
+[8.173761] (-) TimerEvent: {}
+[8.274195] (-) TimerEvent: {}
+[8.377800] (-) TimerEvent: {}
+[8.490842] (-) TimerEvent: {}
+[8.591339] (-) TimerEvent: {}
+[8.692875] (-) TimerEvent: {}
+[8.805508] (-) TimerEvent: {}
+[8.909894] (-) TimerEvent: {}
+[9.022569] (-) TimerEvent: {}
+[9.128429] (-) TimerEvent: {}
+[9.238484] (-) TimerEvent: {}
+[9.339039] (-) TimerEvent: {}
+[9.443831] (-) TimerEvent: {}
+[9.558616] (-) TimerEvent: {}
+[9.659150] (-) TimerEvent: {}
+[9.759595] (-) TimerEvent: {}
+[9.860975] (-) TimerEvent: {}
+[9.961473] (-) TimerEvent: {}
+[10.061864] (-) TimerEvent: {}
+[10.169742] (-) TimerEvent: {}
+[10.270337] (-) TimerEvent: {}
+[10.376783] (-) TimerEvent: {}
+[10.490789] (-) TimerEvent: {}
+[10.591352] (-) TimerEvent: {}
+[10.687845] (Autobot_Ver1) StdoutLine: {'line': b'running egg_info\n'}
+[10.694283] (-) TimerEvent: {}
+[10.696057] (Autobot_Ver1) StdoutLine: {'line': b'writing ../../build/Autobot_Ver1/Autobot_Ver1.egg-info/PKG-INFO\n'}
+[10.696428] (Autobot_Ver1) StdoutLine: {'line': b'writing dependency_links to ../../build/Autobot_Ver1/Autobot_Ver1.egg-info/dependency_links.txt\n'}
+[10.696594] (Autobot_Ver1) StdoutLine: {'line': b'writing entry points to ../../build/Autobot_Ver1/Autobot_Ver1.egg-info/entry_points.txt\n'}
+[10.696923] (Autobot_Ver1) StdoutLine: {'line': b'writing requirements to ../../build/Autobot_Ver1/Autobot_Ver1.egg-info/requires.txt\n'}
+[10.697093] (Autobot_Ver1) StdoutLine: {'line': b'writing top-level names to ../../build/Autobot_Ver1/Autobot_Ver1.egg-info/top_level.txt\n'}
+[10.706391] (Autobot_Ver1) StdoutLine: {'line': b"reading manifest file '../../build/Autobot_Ver1/Autobot_Ver1.egg-info/SOURCES.txt'\n"}
+[10.709278] (Autobot_Ver1) StdoutLine: {'line': b"writing manifest file '../../build/Autobot_Ver1/Autobot_Ver1.egg-info/SOURCES.txt'\n"}
+[10.709829] (Autobot_Ver1) StdoutLine: {'line': b'running build\n'}
+[10.710014] (Autobot_Ver1) StdoutLine: {'line': b'running build_py\n'}
+[10.711659] (Autobot_Ver1) StdoutLine: {'line': b'copying Autobot_Ver1/Autobot_Ver1.py -> /home/darius/turtlebot3_ws/build/Autobot_Ver1/build/lib/Autobot_Ver1\n'}
+[10.715124] (Autobot_Ver1) StdoutLine: {'line': b'running install\n'}
+[10.717742] (Autobot_Ver1) StdoutLine: {'line': b'running install_lib\n'}
+[10.722175] (Autobot_Ver1) StdoutLine: {'line': b'copying /home/darius/turtlebot3_ws/build/Autobot_Ver1/build/lib/Autobot_Ver1/Autobot_Ver1.py -> /home/darius/turtlebot3_ws/install/Autobot_Ver1/lib/python3.10/site-packages/Autobot_Ver1\n'}
+[10.726732] (Autobot_Ver1) StdoutLine: {'line': b'byte-compiling /home/darius/turtlebot3_ws/install/Autobot_Ver1/lib/python3.10/site-packages/Autobot_Ver1/Autobot_Ver1.py to Autobot_Ver1.cpython-310.pyc\n'}
+[10.736373] (Autobot_Ver1) StdoutLine: {'line': b'running install_data\n'}
+[10.741265] (Autobot_Ver1) StdoutLine: {'line': b'running install_egg_info\n'}
+[10.754359] (Autobot_Ver1) StdoutLine: {'line': b"removing '/home/darius/turtlebot3_ws/install/Autobot_Ver1/lib/python3.10/site-packages/Autobot_Ver1-0.0.0-py3.10.egg-info' (and everything under it)\n"}
+[10.759398] (Autobot_Ver1) StdoutLine: {'line': b'Copying ../../build/Autobot_Ver1/Autobot_Ver1.egg-info to /home/darius/turtlebot3_ws/install/Autobot_Ver1/lib/python3.10/site-packages/Autobot_Ver1-0.0.0-py3.10.egg-info\n'}
+[10.765824] (Autobot_Ver1) StdoutLine: {'line': b'running install_scripts\n'}
+[10.794478] (-) TimerEvent: {}
+[10.896049] (-) TimerEvent: {}
+[10.935367] (Autobot_Ver1) StdoutLine: {'line': b'Installing Autobot_Ver1 script to /home/darius/turtlebot3_ws/install/Autobot_Ver1/lib/Autobot_Ver1\n'}
+[10.938844] (Autobot_Ver1) StdoutLine: {'line': b"writing list of installed files to '/home/darius/turtlebot3_ws/build/Autobot_Ver1/install.log'\n"}
+[10.996648] (-) TimerEvent: {}
+[11.056117] (Autobot_Ver1) CommandEnded: {'returncode': 0}
+[11.096754] (-) TimerEvent: {}
+[11.136562] (Autobot_Ver1) JobEnded: {'identifier': 'Autobot_Ver1', 'rc': 0}
+[11.138254] (-) EventReactorShutdown: {}

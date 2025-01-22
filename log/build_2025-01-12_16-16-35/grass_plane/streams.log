@@ -1,0 +1,9 @@
+[0.522s] Invoking command in '/home/darius/turtlebot3_ws/build/grass_plane': /usr/bin/cmake --build /home/darius/turtlebot3_ws/build/grass_plane -- -j8 -l8
+[0.656s] Invoked command in '/home/darius/turtlebot3_ws/build/grass_plane' returned '0': /usr/bin/cmake --build /home/darius/turtlebot3_ws/build/grass_plane -- -j8 -l8
+[0.660s] Invoking command in '/home/darius/turtlebot3_ws/build/grass_plane': /usr/bin/cmake --install /home/darius/turtlebot3_ws/build/grass_plane
+[0.680s] -- Install configuration: ""
+[0.680s] -- Up-to-date: /home/darius/turtlebot3_ws/install/grass_plane/share/Project/gazebo_models/environments/grass_plane/model.config
+[0.680s] -- Up-to-date: /home/darius/turtlebot3_ws/install/grass_plane/share/Project/gazebo_models/environments/grass_plane/model.sdf
+[0.681s] -- Up-to-date: /home/darius/turtlebot3_ws/install/grass_plane/share/Project/gazebo_models/environments/grass_plane/materials/scripts/grass.material
+[0.681s] -- Up-to-date: /home/darius/turtlebot3_ws/install/grass_plane/share/Project/gazebo_models/environments/grass_plane/materials/textures/grass_dry.png
+[0.690s] Invoked command in '/home/darius/turtlebot3_ws/build/grass_plane' returned '0': /usr/bin/cmake --install /home/darius/turtlebot3_ws/build/grass_plane

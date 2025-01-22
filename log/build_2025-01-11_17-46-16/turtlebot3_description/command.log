@@ -1,0 +1,4 @@
+Invoking command in '/home/darius/turtlebot3_ws/build/turtlebot3_description': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/darius/turtlebot3_ws/build/turtlebot3_description
+Invoked command in '/home/darius/turtlebot3_ws/build/turtlebot3_description' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/darius/turtlebot3_ws/build/turtlebot3_description
+Invoking command in '/home/darius/turtlebot3_ws/build/turtlebot3_description': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/darius/turtlebot3_ws/build/turtlebot3_description
+Invoked command in '/home/darius/turtlebot3_ws/build/turtlebot3_description' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/darius/turtlebot3_ws/build/turtlebot3_description

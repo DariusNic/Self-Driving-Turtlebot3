@@ -1,0 +1,41 @@
+[0.504s] Invoking command in '/home/darius/turtlebot3_ws/build/line_follower': /usr/bin/cmake /home/darius/turtlebot3_ws/src/riabot/line_follower -DCATKIN_INSTALL_INTO_PREFIX_ROOT=0 -DCMAKE_INSTALL_PREFIX=/home/darius/turtlebot3_ws/install/line_follower
+[0.531s] [0mCMake Deprecation Warning at CMakeLists.txt:1 (cmake_minimum_required):
+[0.531s]   Compatibility with CMake < 2.8.12 will be removed from a future version of
+[0.531s]   CMake.
+[0.532s] 
+[0.532s]   Update the VERSION argument <min> value or use a ...<max> suffix to tell
+[0.532s]   CMake that the project does not need compatibility with older versions.
+[0.532s] 
+[0.532s] [0m
+[0.640s] -- The C compiler identification is GNU 11.4.0
+[0.783s] -- The CXX compiler identification is GNU 11.4.0
+[0.799s] -- Detecting C compiler ABI info
+[0.944s] -- Detecting C compiler ABI info - done
+[0.958s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.959s] -- Detecting C compile features
+[0.960s] -- Detecting C compile features - done
+[0.966s] -- Detecting CXX compiler ABI info
+[1.130s] -- Detecting CXX compiler ABI info - done
+[1.146s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[1.146s] -- Detecting CXX compile features
+[1.147s] -- Detecting CXX compile features - done
+[1.168s] [31mCMake Error at CMakeLists.txt:10 (find_package):
+[1.168s]   By not providing "Findcatkin.cmake" in CMAKE_MODULE_PATH this project has
+[1.168s]   asked CMake to find a package configuration file provided by "catkin", but
+[1.168s]   CMake did not find one.
+[1.168s] 
+[1.168s]   Could not find a package configuration file provided by "catkin" with any
+[1.169s]   of the following names:
+[1.169s] 
+[1.169s]     catkinConfig.cmake
+[1.169s]     catkin-config.cmake
+[1.169s] 
+[1.169s]   Add the installation prefix of "catkin" to CMAKE_PREFIX_PATH or set
+[1.169s]   "catkin_DIR" to a directory containing one of the above files.  If "catkin"
+[1.169s]   provides a separate development package or SDK, be sure it has been
+[1.170s]   installed.
+[1.170s] 
+[1.170s] [0m
+[1.170s] -- Configuring incomplete, errors occurred!
+[1.170s] See also "/home/darius/turtlebot3_ws/build/line_follower/CMakeFiles/CMakeOutput.log".
+[1.336s] Invoked command in '/home/darius/turtlebot3_ws/build/line_follower' returned '1': /usr/bin/cmake /home/darius/turtlebot3_ws/src/riabot/line_follower -DCATKIN_INSTALL_INTO_PREFIX_ROOT=0 -DCMAKE_INSTALL_PREFIX=/home/darius/turtlebot3_ws/install/line_follower

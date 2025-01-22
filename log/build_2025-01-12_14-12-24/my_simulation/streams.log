@@ -1,0 +1,33 @@
+[1.676s] Invoking command in '/home/darius/turtlebot3_ws/src/my_simulation': PYTHONPATH=/home/darius/turtlebot3_ws/build/my_simulation/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/darius/turtlebot3_ws/install/my_simulation/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/my_simulation build --build-base /home/darius/turtlebot3_ws/build/my_simulation/build install --record /home/darius/turtlebot3_ws/build/my_simulation/install.log --single-version-externally-managed install_data
+[2.098s] running egg_info
+[2.099s] creating ../../build/my_simulation/my_simulation.egg-info
+[2.099s] writing ../../build/my_simulation/my_simulation.egg-info/PKG-INFO
+[2.100s] writing dependency_links to ../../build/my_simulation/my_simulation.egg-info/dependency_links.txt
+[2.100s] writing entry points to ../../build/my_simulation/my_simulation.egg-info/entry_points.txt
+[2.100s] writing requirements to ../../build/my_simulation/my_simulation.egg-info/requires.txt
+[2.101s] writing top-level names to ../../build/my_simulation/my_simulation.egg-info/top_level.txt
+[2.101s] writing manifest file '../../build/my_simulation/my_simulation.egg-info/SOURCES.txt'
+[2.105s] reading manifest file '../../build/my_simulation/my_simulation.egg-info/SOURCES.txt'
+[2.109s] writing manifest file '../../build/my_simulation/my_simulation.egg-info/SOURCES.txt'
+[2.109s] running build
+[2.109s] running build_py
+[2.109s] creating /home/darius/turtlebot3_ws/build/my_simulation/build
+[2.109s] creating /home/darius/turtlebot3_ws/build/my_simulation/build/lib
+[2.109s] creating /home/darius/turtlebot3_ws/build/my_simulation/build/lib/my_simulation
+[2.110s] copying my_simulation/__init__.py -> /home/darius/turtlebot3_ws/build/my_simulation/build/lib/my_simulation
+[2.110s] running install
+[2.110s] running install_lib
+[2.110s] creating /home/darius/turtlebot3_ws/install/my_simulation/lib/python3.10/site-packages/my_simulation
+[2.110s] copying /home/darius/turtlebot3_ws/build/my_simulation/build/lib/my_simulation/__init__.py -> /home/darius/turtlebot3_ws/install/my_simulation/lib/python3.10/site-packages/my_simulation
+[2.110s] byte-compiling /home/darius/turtlebot3_ws/install/my_simulation/lib/python3.10/site-packages/my_simulation/__init__.py to __init__.cpython-310.pyc
+[2.110s] running install_data
+[2.111s] creating /home/darius/turtlebot3_ws/install/my_simulation/share/ament_index
+[2.111s] creating /home/darius/turtlebot3_ws/install/my_simulation/share/ament_index/resource_index
+[2.111s] creating /home/darius/turtlebot3_ws/install/my_simulation/share/ament_index/resource_index/packages
+[2.111s] copying resource/my_simulation -> /home/darius/turtlebot3_ws/install/my_simulation/share/ament_index/resource_index/packages
+[2.111s] copying package.xml -> /home/darius/turtlebot3_ws/install/my_simulation/share/my_simulation
+[2.111s] running install_egg_info
+[2.117s] Copying ../../build/my_simulation/my_simulation.egg-info to /home/darius/turtlebot3_ws/install/my_simulation/lib/python3.10/site-packages/my_simulation-0.0.0-py3.10.egg-info
+[2.119s] running install_scripts
+[2.148s] writing list of installed files to '/home/darius/turtlebot3_ws/build/my_simulation/install.log'
+[2.193s] Invoked command in '/home/darius/turtlebot3_ws/src/my_simulation' returned '0': PYTHONPATH=/home/darius/turtlebot3_ws/build/my_simulation/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/darius/turtlebot3_ws/install/my_simulation/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/my_simulation build --build-base /home/darius/turtlebot3_ws/build/my_simulation/build install --record /home/darius/turtlebot3_ws/build/my_simulation/install.log --single-version-externally-managed install_data

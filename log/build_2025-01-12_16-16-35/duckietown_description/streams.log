@@ -1,0 +1,45 @@
+[0.486s] Invoking command in '/home/darius/turtlebot3_ws/build/duckietown_description': /usr/bin/cmake /home/darius/turtlebot3_ws/src/riabot/duckietown_description -DCATKIN_INSTALL_INTO_PREFIX_ROOT=0 -DCMAKE_INSTALL_PREFIX=/home/darius/turtlebot3_ws/install/duckietown_description
+[0.498s] [0mCMake Deprecation Warning at CMakeLists.txt:1 (cmake_minimum_required):
+[0.498s]   Compatibility with CMake < 2.8.12 will be removed from a future version of
+[0.498s]   CMake.
+[0.498s] 
+[0.498s]   Update the VERSION argument <min> value or use a ...<max> suffix to tell
+[0.499s]   CMake that the project does not need compatibility with older versions.
+[0.499s] 
+[0.499s] [0m
+[0.637s] -- The C compiler identification is GNU 11.4.0
+[0.787s] -- The CXX compiler identification is GNU 11.4.0
+[0.810s] -- Detecting C compiler ABI info
+[0.968s] -- Detecting C compiler ABI info - done
+[0.984s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.984s] -- Detecting C compile features
+[0.986s] -- Detecting C compile features - done
+[0.995s] -- Detecting CXX compiler ABI info
+[1.170s] -- Detecting CXX compiler ABI info - done
+[1.186s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[1.186s] -- Detecting CXX compile features
+[1.187s] -- Detecting CXX compile features - done
+[1.218s] [33mCMake Warning at CMakeLists.txt:4 (find_package):
+[1.219s]   By not providing "Findcatkin.cmake" in CMAKE_MODULE_PATH this project has
+[1.219s]   asked CMake to find a package configuration file provided by "catkin", but
+[1.219s]   CMake did not find one.
+[1.219s] 
+[1.219s]   Could not find a package configuration file provided by "catkin" with any
+[1.219s]   of the following names:
+[1.219s] 
+[1.219s]     catkinConfig.cmake
+[1.219s]     catkin-config.cmake
+[1.220s] 
+[1.220s]   Add the installation prefix of "catkin" to CMAKE_PREFIX_PATH or set
+[1.220s]   "catkin_DIR" to a directory containing one of the above files.  If "catkin"
+[1.220s]   provides a separate development package or SDK, be sure it has been
+[1.220s]   installed.
+[1.220s] 
+[1.220s] [0m
+[1.220s] [31mCMake Error at CMakeLists.txt:5 (catkin_package):
+[1.220s]   Unknown CMake command "catkin_package".
+[1.220s] 
+[1.220s] [0m
+[1.221s] -- Configuring incomplete, errors occurred!
+[1.221s] See also "/home/darius/turtlebot3_ws/build/duckietown_description/CMakeFiles/CMakeOutput.log".
+[1.399s] Invoked command in '/home/darius/turtlebot3_ws/build/duckietown_description' returned '1': /usr/bin/cmake /home/darius/turtlebot3_ws/src/riabot/duckietown_description -DCATKIN_INSTALL_INTO_PREFIX_ROOT=0 -DCMAKE_INSTALL_PREFIX=/home/darius/turtlebot3_ws/install/duckietown_description

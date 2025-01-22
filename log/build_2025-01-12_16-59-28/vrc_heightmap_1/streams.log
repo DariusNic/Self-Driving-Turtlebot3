@@ -1,0 +1,1 @@
+[0.171s] Invoking command in '/home/darius/turtlebot3_ws/build/vrc_heightmap_1': /usr/bin/cmake --build /home/darius/turtlebot3_ws/build/vrc_heightmap_1 -- -j8 -l8

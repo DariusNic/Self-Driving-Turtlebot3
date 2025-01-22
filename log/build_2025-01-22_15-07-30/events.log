@@ -1,0 +1,238 @@
+[0.000000] (-) TimerEvent: {}
+[0.009285] (-) JobUnselected: {'identifier': 'citysim'}
+[0.010587] (-) JobUnselected: {'identifier': 'duckietown_description'}
+[0.010664] (-) JobUnselected: {'identifier': 'duckietown_gazebo'}
+[0.010703] (-) JobUnselected: {'identifier': 'dynamixel_sdk'}
+[0.010738] (-) JobUnselected: {'identifier': 'dynamixel_sdk_custom_interfaces'}
+[0.010773] (-) JobUnselected: {'identifier': 'dynamixel_sdk_examples'}
+[0.010807] (-) JobUnselected: {'identifier': 'grass_plane'}
+[0.010840] (-) JobUnselected: {'identifier': 'line_follower'}
+[0.010872] (-) JobUnselected: {'identifier': 'turtlebot3'}
+[0.010917] (-) JobUnselected: {'identifier': 'turtlebot3_bringup'}
+[0.010954] (-) JobUnselected: {'identifier': 'turtlebot3_cartographer'}
+[0.010987] (-) JobUnselected: {'identifier': 'turtlebot3_description'}
+[0.011572] (-) JobUnselected: {'identifier': 'turtlebot3_example'}
+[0.011622] (-) JobUnselected: {'identifier': 'turtlebot3_fake_node'}
+[0.011651] (-) JobUnselected: {'identifier': 'turtlebot3_gazebo'}
+[0.011681] (-) JobUnselected: {'identifier': 'turtlebot3_msgs'}
+[0.011708] (-) JobUnselected: {'identifier': 'turtlebot3_navigation2'}
+[0.011749] (-) JobUnselected: {'identifier': 'turtlebot3_node'}
+[0.011778] (-) JobUnselected: {'identifier': 'turtlebot3_simulations'}
+[0.011806] (-) JobUnselected: {'identifier': 'turtlebot3_teleop'}
+[0.011831] (-) JobUnselected: {'identifier': 'vrc_heightmap_1'}
+[0.011863] (Autobot_Ver1) JobQueued: {'identifier': 'Autobot_Ver1', 'dependencies': OrderedDict()}
+[0.019539] (Autobot_Ver1) JobStarted: {'identifier': 'Autobot_Ver1'}
+[0.093213] (-) TimerEvent: {}
+[0.198424] (-) TimerEvent: {}
+[0.325111] (-) TimerEvent: {}
+[0.494140] (-) TimerEvent: {}
+[0.623315] (-) TimerEvent: {}
+[0.735363] (-) TimerEvent: {}
+[0.854573] (-) TimerEvent: {}
+[0.978214] (-) TimerEvent: {}
+[1.091296] (-) TimerEvent: {}
+[1.211665] (-) TimerEvent: {}
+[1.320980] (-) TimerEvent: {}
+[1.439474] (-) TimerEvent: {}
+[1.562264] (-) TimerEvent: {}
+[1.685625] (-) TimerEvent: {}
+[1.799602] (-) TimerEvent: {}
+[1.921613] (-) TimerEvent: {}
+[2.040279] (-) TimerEvent: {}
+[2.162867] (-) TimerEvent: {}
+[2.299654] (-) TimerEvent: {}
+[2.427816] (-) TimerEvent: {}
+[2.555781] (-) TimerEvent: {}
+[2.691289] (-) TimerEvent: {}
+[2.834156] (-) TimerEvent: {}
+[2.960758] (-) TimerEvent: {}
+[3.091749] (-) TimerEvent: {}
+[3.239331] (-) TimerEvent: {}
+[3.364700] (-) TimerEvent: {}
+[3.488851] (-) TimerEvent: {}
+[3.625010] (-) TimerEvent: {}
+[3.754065] (-) TimerEvent: {}
+[3.878042] (-) TimerEvent: {}
+[3.998467] (-) TimerEvent: {}
+[4.139294] (-) TimerEvent: {}
+[4.270927] (-) TimerEvent: {}
+[4.394573] (-) TimerEvent: {}
+[4.526722] (-) TimerEvent: {}
+[4.645498] (-) TimerEvent: {}
+[4.785558] (-) TimerEvent: {}
+[4.918716] (-) TimerEvent: {}
+[5.040626] (-) TimerEvent: {}
+[5.173665] (-) TimerEvent: {}
+[5.291134] (-) TimerEvent: {}
+[5.419793] (-) TimerEvent: {}
+[5.539582] (-) TimerEvent: {}
+[5.658701] (-) TimerEvent: {}
+[5.778255] (-) TimerEvent: {}
+[5.897497] (-) TimerEvent: {}
+[6.033227] (-) TimerEvent: {}
+[6.171351] (-) TimerEvent: {}
+[6.318669] (-) TimerEvent: {}
+[6.441055] (-) TimerEvent: {}
+[6.564634] (-) TimerEvent: {}
+[6.690722] (-) TimerEvent: {}
+[6.822601] (-) TimerEvent: {}
+[6.956118] (-) TimerEvent: {}
+[7.079720] (-) TimerEvent: {}
+[7.195780] (-) TimerEvent: {}
+[7.312876] (-) TimerEvent: {}
+[7.432024] (-) TimerEvent: {}
+[7.542748] (-) TimerEvent: {}
+[7.653214] (-) TimerEvent: {}
+[7.770307] (-) TimerEvent: {}
+[7.887197] (-) TimerEvent: {}
+[8.007196] (-) TimerEvent: {}
+[8.123541] (-) TimerEvent: {}
+[8.230778] (-) TimerEvent: {}
+[8.348264] (-) TimerEvent: {}
+[8.464407] (-) TimerEvent: {}
+[8.577606] (-) TimerEvent: {}
+[8.687767] (-) TimerEvent: {}
+[8.810315] (-) TimerEvent: {}
+[8.925519] (-) TimerEvent: {}
+[9.056445] (-) TimerEvent: {}
+[9.187546] (-) TimerEvent: {}
+[9.311029] (-) TimerEvent: {}
+[9.451708] (-) TimerEvent: {}
+[9.592525] (-) TimerEvent: {}
+[9.727352] (-) TimerEvent: {}
+[9.858493] (-) TimerEvent: {}
+[9.990370] (-) TimerEvent: {}
+[10.114529] (-) TimerEvent: {}
+[10.241372] (-) TimerEvent: {}
+[10.382136] (-) TimerEvent: {}
+[23.993718] (-) TimerEvent: {}
+[24.132907] (-) TimerEvent: {}
+[24.273717] (-) TimerEvent: {}
+[24.395217] (-) TimerEvent: {}
+[24.539054] (-) TimerEvent: {}
+[24.699328] (-) TimerEvent: {}
+[24.842427] (-) TimerEvent: {}
+[24.983747] (-) TimerEvent: {}
+[25.135633] (-) TimerEvent: {}
+[25.268961] (-) TimerEvent: {}
+[25.404967] (-) TimerEvent: {}
+[25.539916] (-) TimerEvent: {}
+[25.667339] (-) TimerEvent: {}
+[25.809751] (-) TimerEvent: {}
+[25.937552] (-) TimerEvent: {}
+[26.070456] (-) TimerEvent: {}
+[26.201918] (-) TimerEvent: {}
+[26.328758] (-) TimerEvent: {}
+[26.465561] (-) TimerEvent: {}
+[26.588077] (-) TimerEvent: {}
+[26.711126] (-) TimerEvent: {}
+[26.855949] (-) TimerEvent: {}
+[26.984829] (-) TimerEvent: {}
+[27.126534] (-) TimerEvent: {}
+[27.259645] (-) TimerEvent: {}
+[27.403245] (-) TimerEvent: {}
+[27.533476] (-) TimerEvent: {}
+[27.699398] (-) TimerEvent: {}
+[27.839840] (-) TimerEvent: {}
+[27.989705] (-) TimerEvent: {}
+[28.144058] (-) TimerEvent: {}
+[28.283312] (-) TimerEvent: {}
+[28.437179] (-) TimerEvent: {}
+[28.580253] (-) TimerEvent: {}
+[28.722416] (-) TimerEvent: {}
+[28.871134] (-) TimerEvent: {}
+[29.034972] (-) TimerEvent: {}
+[29.189565] (-) TimerEvent: {}
+[29.320536] (-) TimerEvent: {}
+[29.465760] (-) TimerEvent: {}
+[29.614057] (-) TimerEvent: {}
+[29.772347] (-) TimerEvent: {}
+[29.930213] (-) TimerEvent: {}
+[30.087619] (-) TimerEvent: {}
+[30.287209] (-) TimerEvent: {}
+[30.493962] (-) TimerEvent: {}
+[30.627508] (-) TimerEvent: {}
+[30.847966] (-) TimerEvent: {}
+[31.085386] (-) TimerEvent: {}
+[31.318796] (-) TimerEvent: {}
+[31.493287] (-) TimerEvent: {}
+[31.697204] (-) TimerEvent: {}
+[31.934475] (-) TimerEvent: {}
+[32.084112] (-) TimerEvent: {}
+[32.243101] (-) TimerEvent: {}
+[32.396172] (-) TimerEvent: {}
+[32.610110] (-) TimerEvent: {}
+[32.740052] (-) TimerEvent: {}
+[32.937655] (-) TimerEvent: {}
+[33.074333] (-) TimerEvent: {}
+[33.272096] (-) TimerEvent: {}
+[33.515253] (-) TimerEvent: {}
+[33.700943] (-) TimerEvent: {}
+[33.843300] (-) TimerEvent: {}
+[33.980291] (-) TimerEvent: {}
+[34.195042] (-) TimerEvent: {}
+[34.384071] (-) TimerEvent: {}
+[34.641644] (-) TimerEvent: {}
+[34.859996] (-) TimerEvent: {}
+[35.102204] (-) TimerEvent: {}
+[35.247940] (-) TimerEvent: {}
+[35.429689] (-) TimerEvent: {}
+[35.651382] (-) TimerEvent: {}
+[35.890748] (-) TimerEvent: {}
+[36.143277] (-) TimerEvent: {}
+[36.500814] (-) TimerEvent: {}
+[36.783294] (-) TimerEvent: {}
+[37.111180] (-) TimerEvent: {}
+[37.391841] (-) TimerEvent: {}
+[37.795775] (-) TimerEvent: {}
+[38.069665] (Autobot_Ver1) Command: {'cmd': ['/usr/bin/python3', '-W', 'ignore:setup.py install is deprecated', '-W', 'ignore:easy_install command is deprecated', 'setup.py', 'egg_info', '--egg-base', '../../build/Autobot_Ver1', 'build', '--build-base', '/home/darius/turtlebot3_ws/build/Autobot_Ver1/build', 'install', '--record', '/home/darius/turtlebot3_ws/build/Autobot_Ver1/install.log', '--single-version-externally-managed', 'install_data'], 'cwd': '/home/darius/turtlebot3_ws/src/Autobot_Ver1', 'env': {'LESSOPEN': '| /usr/bin/lesspipe %s', 'USER': 'darius', 'LC_TIME': 'ro_RO.UTF-8', 'XDG_SESSION_TYPE': 'wayland', 'SHLVL': '1', 'LD_LIBRARY_PATH': '/home/darius/turtlebot3_ws/install/turtlebot3_msgs/lib:/home/darius/turtlebot3_ws/install/dynamixel_sdk_custom_interfaces/lib:/home/darius/turtlebot3_ws/install/dynamixel_sdk/lib:/usr/lib/x86_64-linux-gnu/gazebo-11/plugins:/opt/ros/humble/opt/rviz_ogre_vendor/lib:/opt/ros/humble/lib/x86_64-linux-gnu:/opt/ros/humble/lib:/usr/lib/x86_64-linux-gnu/gazebo-11/plugins::/usr/lib/x86_64-linux-gnu/gazebo-11/plugins:/usr/lib/x86_64-linux-gnu/gazebo-11/plugins::/usr/lib/x86_64-linux-gnu/gazebo-11/plugins:/usr/lib/x86_64-linux-gnu/gazebo-11/plugins:/usr/lib/x86_64-linux-gnu/gazebo-11/plugins::/usr/lib/x86_64-linux-gnu/gazebo-11/plugins:/usr/lib/x86_64-linux-gnu/gazebo-11/plugins:/usr/lib/x86_64-linux-gnu/gazebo-11/plugins:/usr/lib/x86_64-linux-gnu/gazebo-11/plugins::/usr/lib/x86_64-linux-gnu/gazebo-11/plugins:/usr/lib/x86_64-linux-gnu/gazebo-11/plugins:/usr/lib/x86_64-linux-gnu/gazebo-11/plugins:/usr/lib/x86_64-linux-gnu/gazebo-11/plugins:/usr/lib/x86_64-linux-gnu/gazebo-11/plugins::/usr/lib/x86_64-linux-gnu/gazebo-11/plugins:/usr/lib/x86_64-linux-gnu/gazebo-11/plugins:/usr/lib/x86_64-linux-gnu/gazebo-11/plugins:/usr/lib/x86_64-linux-gnu/gazebo-11/plugins:/usr/lib/x86_64-linux-gnu/gazebo-11/plugins:/usr/lib/x86_64-linux-gnu/gazebo-11/plugins::/usr/lib/x86_64-linux-gnu/gazebo-11/plugins:/usr/lib/x86_64-linux-gnu/gazebo-11/plugins:/usr/lib/x86_64-linux-gnu/gazebo-11/plugins:/usr/lib/x86_64-linux-gnu/gazebo-11/plugins:/usr/lib/x86_64-linux-gnu/gazebo-11/plugins:/usr/lib/x86_64-linux-gnu/gazebo-11/plugins:/usr/lib/x86_64-linux-gnu/gazebo-11/plugins::/usr/lib/x86_64-linux-gnu/gazebo-11/plugins:/usr/lib/x86_64-linux-gnu/gazebo-11/plugins:/usr/lib/x86_64-linux-gnu/gazebo-11/plugins:/usr/lib/x86_64-linux-gnu/gazebo-11/plugins:/usr/lib/x86_64-linux-gnu/gazebo-11/plugins:/usr/lib/x86_64-linux-gnu/gazebo-11/plugins:/usr/lib/x86_64-linux-gnu/gazebo-11/plugins:/usr/lib/x86_64-linux-gnu/gazebo-11/plugins::/usr/lib/x86_64-linux-gnu/gazebo-11/plugins:/usr/lib/x86_64-linux-gnu/gazebo-11/plugins:/usr/lib/x86_64-linux-gnu/gazebo-11/plugins:/usr/lib/x86_64-linux-gnu/gazebo-11/plugins:/usr/lib/x86_64-linux-gnu/gazebo-11/plugins:/usr/lib/x86_64-linux-gnu/gazebo-11/plugins:/usr/lib/x86_64-linux-gnu/gazebo-11/plugins:/usr/lib/x86_64-linux-gnu/gazebo-11/plugins:/usr/lib/x86_64-linux-gnu/gazebo-11/plugins:', 'HOME': '/home/darius', 'OLDPWD': '/home/darius', 'DESKTOP_SESSION': 'ubuntu', 'GAZEBO_MASTER_URI': 'http://localhost:11345', 'ROS_PYTHON_VERSION': '3', 'GNOME_SHELL_SESSION_MODE': 'ubuntu', 'GTK_MODULES': 'gail:atk-bridge', 'LC_MONETARY': 'ro_RO.UTF-8', 'SYSTEMD_EXEC_PID': '1270', 'DBUS_SESSION_BUS_ADDRESS': 'unix:path=/run/user/1000/bus', 'COLORTERM': 'truecolor', 'IM_CONFIG_PHASE': '1', 'WAYLAND_DISPLAY': 'wayland-0', 'COLCON_PREFIX_PATH': '/home/darius/turtlebot3_ws/install', 'ROS_DISTRO': 'humble', 'LOGNAME': 'darius', '_': '/usr/bin/colcon', 'ROS_VERSION': '2', 'XDG_SESSION_CLASS': 'user', 'USERNAME': 'darius', 'TERM': 'xterm-256color', 'GAZEBO_MODEL_PATH': '/usr/share/gazebo-11/models:/usr/share/gazebo-11/models:/usr/share/gazebo-11/models:/usr/share/gazebo-11/models:/usr/share/gazebo-11/models:/usr/share/gazebo-11/models:/usr/share/gazebo-11/models:/usr/share/gazebo-11/models:/usr/share/gazebo-11/models::/home/darius/turtlebot3_ws/src/gazebo_models_worlds_collection/models:/home/darius/turtlebot3_ws/src/riabot/duckietown_gazebo/models:/home/darius/home/darius/turtlebot3_ws/src/citysim/models:/home/darius/turtlebot3_ws/src/gazebo_models_worlds_collection/models:/home/darius/turtlebot3_ws/src/riabot/duckietown_gazebo/models:/home/darius/home/darius/turtlebot3_ws/src/citysim/models:/home/darius/turtlebot3_ws/src/gazebo_models_worlds_collection/models:/home/darius/turtlebot3_ws/src/riabot/duckietown_gazebo/models:/home/darius/home/darius/turtlebot3_ws/src/citysim/models:/home/darius/turtlebot3_ws/src/gazebo_models_worlds_collection/models:/home/darius/turtlebot3_ws/src/riabot/duckietown_gazebo/models:/home/darius/home/darius/turtlebot3_ws/src/citysim/models:/home/darius/turtlebot3_ws/src/gazebo_models_worlds_collection/models:/home/darius/turtlebot3_ws/src/riabot/duckietown_gazebo/models:/home/darius/home/darius/turtlebot3_ws/src/citysim/models:/home/darius/turtlebot3_ws/src/gazebo_models_worlds_collection/models:/home/darius/turtlebot3_ws/src/riabot/duckietown_gazebo/models:/home/darius/home/darius/turtlebot3_ws/src/citysim/models:/home/darius/turtlebot3_ws/src/gazebo_models_worlds_collection/models:/home/darius/turtlebot3_ws/src/riabot/duckietown_gazebo/models:/home/darius/home/darius/turtlebot3_ws/src/citysim/models:/home/darius/turtlebot3_ws/src/gazebo_models_worlds_collection/models:/home/darius/turtlebot3_ws/src/riabot/duckietown_gazebo/models:/home/darius/home/darius/turtlebot3_ws/src/citysim/models:/home/darius/turtlebot3_ws/src/gazebo_models_worlds_collection/models:/home/darius/turtlebot3_ws/src/riabot/duckietown_gazebo/models:/home/darius/home/darius/turtlebot3_ws/src/citysim/models', 'GNOME_DESKTOP_SESSION_ID': 'this-is-deprecated', 'ROS_LOCALHOST_ONLY': '0', 'OGRE_RESOURCE_PATH': '/usr/lib/x86_64-linux-gnu/OGRE-1.9.0', 'PATH': '/opt/ros/humble/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin:/snap/bin', 'SESSION_MANAGER': 'local/dariusPC:@/tmp/.ICE-unix/928,unix/dariusPC:/tmp/.ICE-unix/928', 'XDG_MENU_PREFIX': 'gnome-', 'LC_ADDRESS': 'ro_RO.UTF-8', 'GNOME_TERMINAL_SCREEN': '/org/gnome/Terminal/screen/544e4bba_1565_42e3_84a1_ff7c7a193fbd', 'GNOME_SETUP_DISPLAY': ':1', 'XDG_RUNTIME_DIR': '/run/user/1000', 'DISPLAY': ':0', 'LANG': 'en_US.UTF-8', 'XDG_CURRENT_DESKTOP': 'ubuntu:GNOME', 'LC_TELEPHONE': 'ro_RO.UTF-8', 'XMODIFIERS': '@im=ibus', 'XDG_SESSION_DESKTOP': 'ubuntu', 'XAUTHORITY': '/run/user/1000/.mutter-Xwaylandauth.IPPA12', 'LS_COLORS': 'rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=00:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.zst=01;31:*.tzst=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.wim=01;31:*.swm=01;31:*.dwm=01;31:*.esd=01;31:*.jpg=01;35:*.jpeg=01;35:*.mjpg=01;35:*.mjpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.webp=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=00;36:*.au=00;36:*.flac=00;36:*.m4a=00;36:*.mid=00;36:*.midi=00;36:*.mka=00;36:*.mp3=00;36:*.mpc=00;36:*.ogg=00;36:*.ra=00;36:*.wav=00;36:*.oga=00;36:*.opus=00;36:*.spx=00;36:*.xspf=00;36:', 'GNOME_TERMINAL_SERVICE': ':1.115', 'SSH_AGENT_LAUNCHER': 'gnome-keyring', 'SSH_AUTH_SOCK': '/run/user/1000/keyring/ssh', 'ROS_DOMAIN_ID': '30', 'AMENT_PREFIX_PATH': '/home/darius/turtlebot3_ws/install/turtlebot3:/home/darius/turtlebot3_ws/install/turtlebot3_teleop:/home/darius/turtlebot3_ws/install/turtlebot3_simulations:/home/darius/turtlebot3_ws/install/turtlebot3_bringup:/home/darius/turtlebot3_ws/install/turtlebot3_node:/home/darius/turtlebot3_ws/install/turtlebot3_navigation2:/home/darius/turtlebot3_ws/install/turtlebot3_fake_node:/home/darius/turtlebot3_ws/install/turtlebot3_example:/home/darius/turtlebot3_ws/install/turtlebot3_msgs:/home/darius/turtlebot3_ws/install/turtlebot3_gazebo:/home/darius/turtlebot3_ws/install/turtlebot3_description:/home/darius/turtlebot3_ws/install/turtlebot3_cartographer:/home/darius/turtlebot3_ws/install/dynamixel_sdk_examples:/home/darius/turtlebot3_ws/install/dynamixel_sdk_custom_interfaces:/home/darius/turtlebot3_ws/install/dynamixel_sdk:/home/darius/turtlebot3_ws/install/Autobot_Ver1:/opt/ros/humble', 'SHELL': '/bin/bash', 'LC_NAME': 'ro_RO.UTF-8', 'QT_ACCESSIBILITY': '1', 'GDMSESSION': 'ubuntu', 'LESSCLOSE': '/usr/bin/lesspipe %s %s', 'LC_MEASUREMENT': 'ro_RO.UTF-8', 'GAZEBO_RESOURCE_PATH': '/usr/share/gazebo-11:/usr/share/gazebo-11:/usr/share/gazebo-11:/usr/share/gazebo-11:/usr/share/gazebo-11:/usr/share/gazebo-11:/usr/share/gazebo-11:/usr/share/gazebo-11:/usr/share/gazebo-11::/home/darius/turtlebot3_ws/src/gazebo_models_worlds_collection/models:/home/darius/turtlebot3_ws/src/gazebo_models_worlds_collection/models:/home/darius/turtlebot3_ws/src/gazebo_models_worlds_collection/models:/home/darius/turtlebot3_ws/src/gazebo_models_worlds_collection/models:/home/darius/turtlebot3_ws/src/gazebo_models_worlds_collection/models:/home/darius/turtlebot3_ws/src/gazebo_models_worlds_collection/models:/home/darius/turtlebot3_ws/src/gazebo_models_worlds_collection/models:/home/darius/turtlebot3_ws/src/gazebo_models_worlds_collection/models:/home/darius/turtlebot3_ws/src/gazebo_models_worlds_collection/models', 'LC_IDENTIFICATION': 'ro_RO.UTF-8', 'GAZEBO_MODEL_DATABASE_URI': 'http://models.gazebosim.org', 'QT_IM_MODULE': 'ibus', 'PWD': '/home/darius/turtlebot3_ws/build/Autobot_Ver1', 'LC_ALL': 'en_US.UTF-8', 'XDG_CONFIG_DIRS': '/etc/xdg/xdg-ubuntu:/etc/xdg', 'GAZEBO_PLUGIN_PATH': '/usr/lib/x86_64-linux-gnu/gazebo-11/plugins:/usr/lib/x86_64-linux-gnu/gazebo-11/plugins:/usr/lib/x86_64-linux-gnu/gazebo-11/plugins:/usr/lib/x86_64-linux-gnu/gazebo-11/plugins:/usr/lib/x86_64-linux-gnu/gazebo-11/plugins:/usr/lib/x86_64-linux-gnu/gazebo-11/plugins:/usr/lib/x86_64-linux-gnu/gazebo-11/plugins:/usr/lib/x86_64-linux-gnu/gazebo-11/plugins:/usr/lib/x86_64-linux-gnu/gazebo-11/plugins:', 'XDG_DATA_DIRS': '/usr/share/ubuntu:/usr/local/share/:/usr/share/:/var/lib/snapd/desktop', 'PYTHONPATH': '/home/darius/turtlebot3_ws/build/Autobot_Ver1/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/darius/turtlebot3_ws/install/Autobot_Ver1/lib/python3.10/site-packages:/home/darius/turtlebot3_ws/install/turtlebot3_teleop/lib/python3.10/site-packages:/home/darius/turtlebot3_ws/install/turtlebot3_example/lib/python3.10/site-packages:/home/darius/turtlebot3_ws/install/turtlebot3_msgs/local/lib/python3.10/dist-packages:/home/darius/turtlebot3_ws/install/dynamixel_sdk_custom_interfaces/local/lib/python3.10/dist-packages:/home/darius/turtlebot3_ws/install/Autobot_Ver1/lib/python3.10/site-packages:/opt/ros/humble/lib/python3.10/site-packages:/opt/ros/humble/local/lib/python3.10/dist-packages', 'LC_NUMERIC': 'ro_RO.UTF-8', 'LC_PAPER': 'ro_RO.UTF-8', 'COLCON': '1', 'VTE_VERSION': '6800', 'CMAKE_PREFIX_PATH': '/home/darius/turtlebot3_ws/install/turtlebot3:/home/darius/turtlebot3_ws/install/turtlebot3_simulations:/home/darius/turtlebot3_ws/install/turtlebot3_bringup:/home/darius/turtlebot3_ws/install/turtlebot3_node:/home/darius/turtlebot3_ws/install/turtlebot3_navigation2:/home/darius/turtlebot3_ws/install/turtlebot3_fake_node:/home/darius/turtlebot3_ws/install/turtlebot3_msgs:/home/darius/turtlebot3_ws/install/turtlebot3_gazebo:/home/darius/turtlebot3_ws/install/turtlebot3_description:/home/darius/turtlebot3_ws/install/turtlebot3_cartographer:/home/darius/turtlebot3_ws/install/dynamixel_sdk_examples:/home/darius/turtlebot3_ws/install/dynamixel_sdk_custom_interfaces:/home/darius/turtlebot3_ws/install/dynamixel_sdk'}, 'shell': False}
+[38.081798] (-) TimerEvent: {}
+[38.202163] (-) TimerEvent: {}
+[38.355239] (-) TimerEvent: {}
+[38.479274] (-) TimerEvent: {}
+[38.604136] (-) TimerEvent: {}
+[38.734064] (-) TimerEvent: {}
+[38.858761] (-) TimerEvent: {}
+[38.988356] (-) TimerEvent: {}
+[39.108662] (-) TimerEvent: {}
+[39.228978] (-) TimerEvent: {}
+[39.354061] (-) TimerEvent: {}
+[39.485721] (-) TimerEvent: {}
+[39.604591] (-) TimerEvent: {}
+[39.729587] (-) TimerEvent: {}
+[39.841801] (-) TimerEvent: {}
+[39.964425] (-) TimerEvent: {}
+[40.091720] (-) TimerEvent: {}
+[40.210184] (-) TimerEvent: {}
+[40.326370] (-) TimerEvent: {}
+[40.455209] (-) TimerEvent: {}
+[40.587305] (-) TimerEvent: {}
+[40.730668] (-) TimerEvent: {}
+[40.880959] (-) TimerEvent: {}
+[41.021596] (-) TimerEvent: {}
+[41.186833] (-) TimerEvent: {}
+[41.324192] (-) TimerEvent: {}
+[41.477736] (-) TimerEvent: {}
+[41.605142] (-) TimerEvent: {}
+[41.746501] (-) TimerEvent: {}
+[41.881251] (-) TimerEvent: {}
+[42.026435] (-) TimerEvent: {}
+[42.172935] (-) TimerEvent: {}
+[42.335005] (-) TimerEvent: {}
+[42.499859] (-) TimerEvent: {}
+[42.622987] (-) TimerEvent: {}
+[42.769716] (-) TimerEvent: {}
+[42.924267] (-) TimerEvent: {}
+[43.063746] (-) TimerEvent: {}
+[43.209619] (-) TimerEvent: {}
+[43.352104] (-) TimerEvent: {}
+[43.486775] (-) TimerEvent: {}
+[43.619655] (-) TimerEvent: {}
+[43.749282] (-) TimerEvent: {}
+[43.891911] (-) TimerEvent: {}
+[44.022525] (-) TimerEvent: {}
+[44.163203] (-) TimerEvent: {}
+[44.292085] (-) TimerEvent: {}
+[44.422985] (-) TimerEvent: {}
+[44.593584] (-) TimerEvent: {}
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           

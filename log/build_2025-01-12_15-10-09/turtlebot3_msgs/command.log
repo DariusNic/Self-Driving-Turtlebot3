@@ -1,0 +1,3 @@
+Invoking command in '/home/darius/turtlebot3_ws/build/turtlebot3_msgs': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/darius/turtlebot3_ws/src/turtlebot3_msgs -DCMAKE_INSTALL_PREFIX=/home/darius/turtlebot3_ws/install/turtlebot3_msgs
+Invoked command in '/home/darius/turtlebot3_ws/build/turtlebot3_msgs' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/darius/turtlebot3_ws/src/turtlebot3_msgs -DCMAKE_INSTALL_PREFIX=/home/darius/turtlebot3_ws/install/turtlebot3_msgs
+Invoking command in '/home/darius/turtlebot3_ws/build/turtlebot3_msgs': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/darius/turtlebot3_ws/build/turtlebot3_msgs

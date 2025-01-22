@@ -1,0 +1,16 @@
+package.xml
+setup.cfg
+setup.py
+../../build/Autobot_Ver1/Autobot_Ver1.egg-info/PKG-INFO
+../../build/Autobot_Ver1/Autobot_Ver1.egg-info/SOURCES.txt
+../../build/Autobot_Ver1/Autobot_Ver1.egg-info/dependency_links.txt
+../../build/Autobot_Ver1/Autobot_Ver1.egg-info/entry_points.txt
+../../build/Autobot_Ver1/Autobot_Ver1.egg-info/requires.txt
+../../build/Autobot_Ver1/Autobot_Ver1.egg-info/top_level.txt
+../../build/Autobot_Ver1/Autobot_Ver1.egg-info/zip-safe
+Autobot_Ver1/Autobot_Ver1.py
+Autobot_Ver1/__init__.py
+resource/Autobot_Ver1
+test/test_copyright.py
+test/test_flake8.py
+test/test_pep257.py

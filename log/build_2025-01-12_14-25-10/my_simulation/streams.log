@@ -1,0 +1,20 @@
+[0.829s] Invoking command in '/home/darius/turtlebot3_ws/src/my_simulation': PYTHONPATH=/home/darius/turtlebot3_ws/build/my_simulation/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/darius/turtlebot3_ws/install/my_simulation/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/my_simulation build --build-base /home/darius/turtlebot3_ws/build/my_simulation/build install --record /home/darius/turtlebot3_ws/build/my_simulation/install.log --single-version-externally-managed install_data
+[1.127s] running egg_info
+[1.128s] writing ../../build/my_simulation/my_simulation.egg-info/PKG-INFO
+[1.129s] writing dependency_links to ../../build/my_simulation/my_simulation.egg-info/dependency_links.txt
+[1.129s] writing entry points to ../../build/my_simulation/my_simulation.egg-info/entry_points.txt
+[1.129s] writing requirements to ../../build/my_simulation/my_simulation.egg-info/requires.txt
+[1.130s] writing top-level names to ../../build/my_simulation/my_simulation.egg-info/top_level.txt
+[1.132s] reading manifest file '../../build/my_simulation/my_simulation.egg-info/SOURCES.txt'
+[1.133s] writing manifest file '../../build/my_simulation/my_simulation.egg-info/SOURCES.txt'
+[1.133s] running build
+[1.133s] running build_py
+[1.134s] running install
+[1.134s] running install_lib
+[1.135s] running install_data
+[1.135s] running install_egg_info
+[1.139s] removing '/home/darius/turtlebot3_ws/install/my_simulation/lib/python3.10/site-packages/my_simulation-0.0.0-py3.10.egg-info' (and everything under it)
+[1.139s] Copying ../../build/my_simulation/my_simulation.egg-info to /home/darius/turtlebot3_ws/install/my_simulation/lib/python3.10/site-packages/my_simulation-0.0.0-py3.10.egg-info
+[1.141s] running install_scripts
+[1.167s] writing list of installed files to '/home/darius/turtlebot3_ws/build/my_simulation/install.log'
+[1.210s] Invoked command in '/home/darius/turtlebot3_ws/src/my_simulation' returned '0': PYTHONPATH=/home/darius/turtlebot3_ws/build/my_simulation/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/darius/turtlebot3_ws/install/my_simulation/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/my_simulation build --build-base /home/darius/turtlebot3_ws/build/my_simulation/build install --record /home/darius/turtlebot3_ws/build/my_simulation/install.log --single-version-externally-managed install_data

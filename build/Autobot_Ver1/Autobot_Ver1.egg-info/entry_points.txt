@@ -1,0 +1,3 @@
+[console_scripts]
+Autobot_Ver1 = Autobot_Ver1.Autobot_Ver1:main
+

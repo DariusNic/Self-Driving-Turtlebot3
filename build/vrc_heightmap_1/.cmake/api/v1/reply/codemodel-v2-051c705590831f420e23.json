@@ -1,0 +1,66 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-511de56dc7cdfdacf226.json",
+					"projectIndex" : 0,
+					"source" : "."
+				},
+				{
+					"build" : "materials",
+					"childIndexes" : 
+					[
+						2
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-materials-6eee5a6cb2eb2242e38e.json",
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "materials"
+				},
+				{
+					"build" : "materials/textures",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-materials.textures-b66e8affab11cc6fdc46.json",
+					"parentIndex" : 1,
+					"projectIndex" : 0,
+					"source" : "materials/textures"
+				}
+			],
+			"name" : "",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1,
+						2
+					],
+					"name" : "Project"
+				}
+			],
+			"targets" : []
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/darius/turtlebot3_ws/build/vrc_heightmap_1",
+		"source" : "/home/darius/turtlebot3_ws/src/gazebo_models_worlds_collection/models/vrc_heightmap_1"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

@@ -1,0 +1,6 @@
+Invoking command in '/home/darius/turtlebot3_ws/build/dynamixel_sdk': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/darius/turtlebot3_ws/src/DynamixelSDK/dynamixel_sdk -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/darius/turtlebot3_ws/install/dynamixel_sdk
+Invoked command in '/home/darius/turtlebot3_ws/build/dynamixel_sdk' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/darius/turtlebot3_ws/src/DynamixelSDK/dynamixel_sdk -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/darius/turtlebot3_ws/install/dynamixel_sdk
+Invoking command in '/home/darius/turtlebot3_ws/build/dynamixel_sdk': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/darius/turtlebot3_ws/build/dynamixel_sdk
+Invoked command in '/home/darius/turtlebot3_ws/build/dynamixel_sdk' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/darius/turtlebot3_ws/build/dynamixel_sdk
+Invoking command in '/home/darius/turtlebot3_ws/build/dynamixel_sdk': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/darius/turtlebot3_ws/build/dynamixel_sdk
+Invoked command in '/home/darius/turtlebot3_ws/build/dynamixel_sdk' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/darius/turtlebot3_ws/build/dynamixel_sdk

@@ -1,0 +1,8 @@
+[0.810s] Invoking command in '/home/darius/turtlebot3_ws/build/vrc_heightmap_1': /usr/bin/cmake --build /home/darius/turtlebot3_ws/build/vrc_heightmap_1 -- -j8 -l8
+[1.315s] Invoked command in '/home/darius/turtlebot3_ws/build/vrc_heightmap_1' returned '0': /usr/bin/cmake --build /home/darius/turtlebot3_ws/build/vrc_heightmap_1 -- -j8 -l8
+[1.316s] Invoking command in '/home/darius/turtlebot3_ws/build/vrc_heightmap_1': /usr/bin/cmake --install /home/darius/turtlebot3_ws/build/vrc_heightmap_1
+[1.336s] -- Install configuration: ""
+[1.337s] -- Up-to-date: /home/darius/turtlebot3_ws/install/vrc_heightmap_1/share/Project/gazebo_models/environments/vrc_heightmap_1/model.config
+[1.338s] -- Up-to-date: /home/darius/turtlebot3_ws/install/vrc_heightmap_1/share/Project/gazebo_models/environments/vrc_heightmap_1/model.sdf
+[1.338s] -- Up-to-date: /home/darius/turtlebot3_ws/install/vrc_heightmap_1/share/Project/gazebo_models/environments/vrc_heightmap_1/materials/textures/heightmap.png
+[1.365s] Invoked command in '/home/darius/turtlebot3_ws/build/vrc_heightmap_1' returned '0': /usr/bin/cmake --install /home/darius/turtlebot3_ws/build/vrc_heightmap_1

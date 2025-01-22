@@ -1,0 +1,4 @@
+Invoking command in '/home/darius/turtlebot3_ws/build/vrc_heightmap_1': /usr/bin/cmake --build /home/darius/turtlebot3_ws/build/vrc_heightmap_1
+Invoked command in '/home/darius/turtlebot3_ws/build/vrc_heightmap_1' returned '0': /usr/bin/cmake --build /home/darius/turtlebot3_ws/build/vrc_heightmap_1
+Invoking command in '/home/darius/turtlebot3_ws/build/vrc_heightmap_1': /usr/bin/cmake --install /home/darius/turtlebot3_ws/build/vrc_heightmap_1
+Invoked command in '/home/darius/turtlebot3_ws/build/vrc_heightmap_1' returned '0': /usr/bin/cmake --install /home/darius/turtlebot3_ws/build/vrc_heightmap_1

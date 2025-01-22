@@ -1,0 +1,20 @@
+-- The C compiler identification is GNU 11.4.0
+-- The CXX compiler identification is GNU 11.4.0
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: /usr/bin/cc - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: /usr/bin/c++ - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/darius/turtlebot3_ws/build/grass_plane
+-- Install configuration: ""
+-- Installing: /home/darius/turtlebot3_ws/install/grass_plane/share/Project/gazebo_models/environments/grass_plane/model.config
+-- Installing: /home/darius/turtlebot3_ws/install/grass_plane/share/Project/gazebo_models/environments/grass_plane/model.sdf
+-- Installing: /home/darius/turtlebot3_ws/install/grass_plane/share/Project/gazebo_models/environments/grass_plane/materials/scripts/grass.material
+-- Installing: /home/darius/turtlebot3_ws/install/grass_plane/share/Project/gazebo_models/environments/grass_plane/materials/textures/grass_dry.png

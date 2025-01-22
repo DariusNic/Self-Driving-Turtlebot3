@@ -1,0 +1,35 @@
+running egg_info
+creating ../../build/Autobot_Ver1/Autobot_Ver1.egg-info
+writing ../../build/Autobot_Ver1/Autobot_Ver1.egg-info/PKG-INFO
+writing dependency_links to ../../build/Autobot_Ver1/Autobot_Ver1.egg-info/dependency_links.txt
+writing entry points to ../../build/Autobot_Ver1/Autobot_Ver1.egg-info/entry_points.txt
+writing requirements to ../../build/Autobot_Ver1/Autobot_Ver1.egg-info/requires.txt
+writing top-level names to ../../build/Autobot_Ver1/Autobot_Ver1.egg-info/top_level.txt
+writing manifest file '../../build/Autobot_Ver1/Autobot_Ver1.egg-info/SOURCES.txt'
+reading manifest file '../../build/Autobot_Ver1/Autobot_Ver1.egg-info/SOURCES.txt'
+writing manifest file '../../build/Autobot_Ver1/Autobot_Ver1.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/darius/turtlebot3_ws/build/Autobot_Ver1/build
+creating /home/darius/turtlebot3_ws/build/Autobot_Ver1/build/lib
+creating /home/darius/turtlebot3_ws/build/Autobot_Ver1/build/lib/Autobot_Ver1
+copying Autobot_Ver1/__init__.py -> /home/darius/turtlebot3_ws/build/Autobot_Ver1/build/lib/Autobot_Ver1
+copying Autobot_Ver1/Autobot_Ver1.py -> /home/darius/turtlebot3_ws/build/Autobot_Ver1/build/lib/Autobot_Ver1
+running install
+running install_lib
+creating /home/darius/turtlebot3_ws/install/Autobot_Ver1/lib/python3.10/site-packages/Autobot_Ver1
+copying /home/darius/turtlebot3_ws/build/Autobot_Ver1/build/lib/Autobot_Ver1/__init__.py -> /home/darius/turtlebot3_ws/install/Autobot_Ver1/lib/python3.10/site-packages/Autobot_Ver1
+copying /home/darius/turtlebot3_ws/build/Autobot_Ver1/build/lib/Autobot_Ver1/Autobot_Ver1.py -> /home/darius/turtlebot3_ws/install/Autobot_Ver1/lib/python3.10/site-packages/Autobot_Ver1
+byte-compiling /home/darius/turtlebot3_ws/install/Autobot_Ver1/lib/python3.10/site-packages/Autobot_Ver1/__init__.py to __init__.cpython-310.pyc
+byte-compiling /home/darius/turtlebot3_ws/install/Autobot_Ver1/lib/python3.10/site-packages/Autobot_Ver1/Autobot_Ver1.py to Autobot_Ver1.cpython-310.pyc
+running install_data
+creating /home/darius/turtlebot3_ws/install/Autobot_Ver1/share/ament_index
+creating /home/darius/turtlebot3_ws/install/Autobot_Ver1/share/ament_index/resource_index
+creating /home/darius/turtlebot3_ws/install/Autobot_Ver1/share/ament_index/resource_index/packages
+copying resource/Autobot_Ver1 -> /home/darius/turtlebot3_ws/install/Autobot_Ver1/share/ament_index/resource_index/packages
+copying package.xml -> /home/darius/turtlebot3_ws/install/Autobot_Ver1/share/Autobot_Ver1
+running install_egg_info
+Copying ../../build/Autobot_Ver1/Autobot_Ver1.egg-info to /home/darius/turtlebot3_ws/install/Autobot_Ver1/lib/python3.10/site-packages/Autobot_Ver1-0.0.0-py3.10.egg-info
+running install_scripts
+Installing Autobot_Ver1 script to /home/darius/turtlebot3_ws/install/Autobot_Ver1/lib/Autobot_Ver1
+writing list of installed files to '/home/darius/turtlebot3_ws/build/Autobot_Ver1/install.log'

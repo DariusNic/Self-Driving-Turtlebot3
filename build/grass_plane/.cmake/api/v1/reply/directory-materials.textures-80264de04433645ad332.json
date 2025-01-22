@@ -1,0 +1,43 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"install"
+		],
+		"files" : 
+		[
+			"materials/textures/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 5,
+				"parent" : 0
+			}
+		]
+	},
+	"installers" : 
+	[
+		{
+			"backtrace" : 1,
+			"component" : "Unspecified",
+			"destination" : "/home/darius/turtlebot3_ws/install/grass_plane/share/Project/gazebo_models/environments/grass_plane/materials/textures",
+			"paths" : 
+			[
+				"materials/textures/grass_dry.png"
+			],
+			"type" : "file"
+		}
+	],
+	"paths" : 
+	{
+		"build" : "materials/textures",
+		"source" : "materials/textures"
+	}
+}

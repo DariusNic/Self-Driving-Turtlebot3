@@ -1,0 +1,76 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-4c1df5909b7fca60a624.json",
+					"projectIndex" : 0,
+					"source" : "."
+				},
+				{
+					"build" : "materials",
+					"childIndexes" : 
+					[
+						2,
+						3
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-materials-6eee5a6cb2eb2242e38e.json",
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "materials"
+				},
+				{
+					"build" : "materials/scripts",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-materials.scripts-e80fe26a8384eb07ea9a.json",
+					"parentIndex" : 1,
+					"projectIndex" : 0,
+					"source" : "materials/scripts"
+				},
+				{
+					"build" : "materials/textures",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-materials.textures-80264de04433645ad332.json",
+					"parentIndex" : 1,
+					"projectIndex" : 0,
+					"source" : "materials/textures"
+				}
+			],
+			"name" : "",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					],
+					"name" : "Project"
+				}
+			],
+			"targets" : []
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/darius/turtlebot3_ws/build/grass_plane",
+		"source" : "/home/darius/turtlebot3_ws/src/gazebo_models_worlds_collection/models/grass_plane"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

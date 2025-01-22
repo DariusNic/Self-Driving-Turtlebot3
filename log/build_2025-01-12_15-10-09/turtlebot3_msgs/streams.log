@@ -1,0 +1,78 @@
+[0.053s] Invoking command in '/home/darius/turtlebot3_ws/build/turtlebot3_msgs': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/darius/turtlebot3_ws/src/turtlebot3_msgs -DCMAKE_INSTALL_PREFIX=/home/darius/turtlebot3_ws/install/turtlebot3_msgs
+[0.243s] -- The C compiler identification is GNU 11.4.0
+[0.426s] -- The CXX compiler identification is GNU 11.4.0
+[0.443s] -- Detecting C compiler ABI info
+[0.637s] -- Detecting C compiler ABI info - done
+[0.651s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.651s] -- Detecting C compile features
+[0.652s] -- Detecting C compile features - done
+[0.661s] -- Detecting CXX compiler ABI info
+[0.937s] -- Detecting CXX compiler ABI info - done
+[0.952s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.953s] -- Detecting CXX compile features
+[0.955s] -- Detecting CXX compile features - done
+[0.965s] -- Found action_msgs: 1.2.1 (/opt/ros/humble/share/action_msgs/cmake)
+[1.444s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[1.762s] -- Found rosidl_generator_c: 3.1.6 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+[1.768s] -- Found rosidl_adapter: 3.1.6 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[1.789s] -- Found rosidl_generator_cpp: 3.1.6 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+[1.818s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[1.868s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[1.998s] -- Found rosidl_default_generators: 1.2.0 (/opt/ros/humble/share/rosidl_default_generators/cmake)
+[2.017s] -- Found std_msgs: 4.2.4 (/opt/ros/humble/share/std_msgs/cmake)
+[2.729s] -- Found ament_cmake_cppcheck: 0.12.11 (/opt/ros/humble/share/ament_cmake_cppcheck/cmake)
+[2.737s] -- Found ament_cmake_cpplint: 0.12.11 (/opt/ros/humble/share/ament_cmake_cpplint/cmake)
+[2.744s] -- Found ament_cmake_uncrustify: 0.12.11 (/opt/ros/humble/share/ament_cmake_uncrustify/cmake)
+[2.752s] -- Found ament_cmake_ros: 0.10.0 (/opt/ros/humble/share/ament_cmake_ros/cmake)
+[3.540s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[3.831s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[3.873s] -- Found PythonInterp: /usr/bin/python3 (found suitable version "3.10.12", minimum required is "3.6") 
+[3.876s] -- Found python_cmake_module: 0.10.0 (/opt/ros/humble/share/python_cmake_module/cmake)
+[3.939s] -- Found PythonLibs: /usr/lib/x86_64-linux-gnu/libpython3.10.so (found suitable version "3.10.12", minimum required is "3.5") 
+[3.940s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[3.941s] -- Using PYTHON_INCLUDE_DIRS: /usr/include/python3.10
+[3.941s] -- Using PYTHON_LIBRARIES: /usr/lib/x86_64-linux-gnu/libpython3.10.so
+[3.994s] -- Found PythonExtra: .so  
+[4.086s] -- Found ament_cmake_flake8: 0.12.11 (/opt/ros/humble/share/ament_cmake_flake8/cmake)
+[4.093s] -- Found ament_cmake_pep257: 0.12.11 (/opt/ros/humble/share/ament_cmake_pep257/cmake)
+[4.111s] -- Configuring done
+[4.203s] -- Generating done
+[4.227s] -- Build files have been written to: /home/darius/turtlebot3_ws/build/turtlebot3_msgs
+[4.247s] Invoked command in '/home/darius/turtlebot3_ws/build/turtlebot3_msgs' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/darius/turtlebot3_ws/src/turtlebot3_msgs -DCMAKE_INSTALL_PREFIX=/home/darius/turtlebot3_ws/install/turtlebot3_msgs
+[4.250s] Invoking command in '/home/darius/turtlebot3_ws/build/turtlebot3_msgs': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/darius/turtlebot3_ws/build/turtlebot3_msgs
+[4.340s] [  1%] [34m[1mGenerating C++ code for ROS interfaces[0m
+[5.862s] [  1%] Built target turtlebot3_msgs__cpp
+[5.880s] [  2%] [34m[1mGenerating C++ type support dispatch for ROS interfaces[0m
+[6.846s] [  4%] [32mBuilding CXX object CMakeFiles/turtlebot3_msgs__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/turtlebot3_msgs/msg/sensor_state__type_support.cpp.o[0m
+[7.241s] [  5%] [32mBuilding CXX object CMakeFiles/turtlebot3_msgs__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/turtlebot3_msgs/msg/sound__type_support.cpp.o[0m
+[7.652s] [  7%] [32mBuilding CXX object CMakeFiles/turtlebot3_msgs__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/turtlebot3_msgs/msg/version_info__type_support.cpp.o[0m
+[8.036s] [  8%] [32mBuilding CXX object CMakeFiles/turtlebot3_msgs__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/turtlebot3_msgs/srv/sound__type_support.cpp.o[0m
+[8.534s] [  9%] [32mBuilding CXX object CMakeFiles/turtlebot3_msgs__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/turtlebot3_msgs/srv/dqn__type_support.cpp.o[0m
+[8.914s] [ 11%] [32mBuilding CXX object CMakeFiles/turtlebot3_msgs__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/turtlebot3_msgs/action/patrol__type_support.cpp.o[0m
+[9.603s] [ 12%] [32m[1mLinking CXX shared library libturtlebot3_msgs__rosidl_typesupport_cpp.so[0m
+[9.684s] [ 12%] Built target turtlebot3_msgs__rosidl_typesupport_cpp
+[9.703s] [ 14%] [34m[1mGenerating C code for ROS interfaces[0m
+[11.308s] [ 15%] [32mBuilding C object CMakeFiles/turtlebot3_msgs__rosidl_generator_c.dir/rosidl_generator_c/turtlebot3_msgs/msg/detail/sensor_state__functions.c.o[0m
+[11.416s] [ 16%] [32mBuilding C object CMakeFiles/turtlebot3_msgs__rosidl_generator_c.dir/rosidl_generator_c/turtlebot3_msgs/msg/detail/sound__functions.c.o[0m
+[11.491s] [ 18%] [32mBuilding C object CMakeFiles/turtlebot3_msgs__rosidl_generator_c.dir/rosidl_generator_c/turtlebot3_msgs/msg/detail/version_info__functions.c.o[0m
+[11.569s] [ 19%] [32mBuilding C object CMakeFiles/turtlebot3_msgs__rosidl_generator_c.dir/rosidl_generator_c/turtlebot3_msgs/srv/detail/sound__functions.c.o[0m
+[11.672s] [ 21%] [32mBuilding C object CMakeFiles/turtlebot3_msgs__rosidl_generator_c.dir/rosidl_generator_c/turtlebot3_msgs/srv/detail/dqn__functions.c.o[0m
+[11.767s] [ 22%] [32mBuilding C object CMakeFiles/turtlebot3_msgs__rosidl_generator_c.dir/rosidl_generator_c/turtlebot3_msgs/action/detail/patrol__functions.c.o[0m
+[11.982s] [ 23%] [32m[1mLinking C shared library libturtlebot3_msgs__rosidl_generator_c.so[0m
+[12.062s] [ 23%] Built target turtlebot3_msgs__rosidl_generator_c
+[12.085s] [ 25%] [34m[1mGenerating C type support for eProsima Fast-RTPS[0m
+[13.347s] [ 26%] [32mBuilding CXX object CMakeFiles/turtlebot3_msgs__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/turtlebot3_msgs/msg/detail/sensor_state__type_support_c.cpp.o[0m
+[13.899s] [ 28%] [32mBuilding CXX object CMakeFiles/turtlebot3_msgs__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/turtlebot3_msgs/msg/detail/sound__type_support_c.cpp.o[0m
+[14.405s] [ 29%] [32mBuilding CXX object CMakeFiles/turtlebot3_msgs__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/turtlebot3_msgs/msg/detail/version_info__type_support_c.cpp.o[0m
+[14.956s] [ 30%] [32mBuilding CXX object CMakeFiles/turtlebot3_msgs__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/turtlebot3_msgs/srv/detail/sound__type_support_c.cpp.o[0m
+[15.512s] [ 32%] [32mBuilding CXX object CMakeFiles/turtlebot3_msgs__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/turtlebot3_msgs/srv/detail/dqn__type_support_c.cpp.o[0m
+[16.085s] [ 33%] [32mBuilding CXX object CMakeFiles/turtlebot3_msgs__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/turtlebot3_msgs/action/detail/patrol__type_support_c.cpp.o[0m
+[16.672s] [ 35%] [32m[1mLinking CXX shared library libturtlebot3_msgs__rosidl_typesupport_fastrtps_c.so[0m
+[16.842s] [ 35%] Built target turtlebot3_msgs__rosidl_typesupport_fastrtps_c
+[16.865s] [ 36%] [34m[1mGenerating C++ type support for eProsima Fast-RTPS[0m
+[18.372s] [ 38%] [32mBuilding CXX object CMakeFiles/turtlebot3_msgs__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/turtlebot3_msgs/msg/detail/dds_fastrtps/sensor_state__type_support.cpp.o[0m
+[19.030s] [ 39%] [32mBuilding CXX object CMakeFiles/turtlebot3_msgs__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/turtlebot3_msgs/msg/detail/dds_fastrtps/sound__type_support.cpp.o[0m
+[19.673s] [ 40%] [32mBuilding CXX object CMakeFiles/turtlebot3_msgs__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/turtlebot3_msgs/msg/detail/dds_fastrtps/version_info__type_support.cpp.o[0m
+[20.340s] [ 42%] [32mBuilding CXX object CMakeFiles/turtlebot3_msgs__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/turtlebot3_msgs/srv/detail/dds_fastrtps/sound__type_support.cpp.o[0m
+[21.051s] [ 43%] [32mBuilding CXX object CMakeFiles/turtlebot3_msgs__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/turtlebot3_msgs/srv/detail/dds_fastrtps/dqn__type_support.cpp.o[0m
+[22.050s] [ 45%] [32mBuilding CXX object CMakeFiles/turtlebot3_msgs__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/turtlebot3_msgs/action/detail/dds_fastrtps/patrol__type_support.cpp.o[0m

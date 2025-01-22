@@ -1,0 +1,4 @@
+Invoking command in '/home/darius/turtlebot3_ws/build/grass_plane': /usr/bin/cmake --build /home/darius/turtlebot3_ws/build/grass_plane -- -j8 -l8
+Invoked command in '/home/darius/turtlebot3_ws/build/grass_plane' returned '0': /usr/bin/cmake --build /home/darius/turtlebot3_ws/build/grass_plane -- -j8 -l8
+Invoking command in '/home/darius/turtlebot3_ws/build/grass_plane': /usr/bin/cmake --install /home/darius/turtlebot3_ws/build/grass_plane
+Invoked command in '/home/darius/turtlebot3_ws/build/grass_plane' returned '0': /usr/bin/cmake --install /home/darius/turtlebot3_ws/build/grass_plane

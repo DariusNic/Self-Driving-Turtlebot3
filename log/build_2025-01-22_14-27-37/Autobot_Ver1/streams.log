@@ -1,0 +1,24 @@
+[7.495s] Invoking command in '/home/darius/turtlebot3_ws/src/Autobot_Ver1': PYTHONPATH=/home/darius/turtlebot3_ws/build/Autobot_Ver1/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/darius/turtlebot3_ws/install/Autobot_Ver1/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/Autobot_Ver1 build --build-base /home/darius/turtlebot3_ws/build/Autobot_Ver1/build install --record /home/darius/turtlebot3_ws/build/Autobot_Ver1/install.log --single-version-externally-managed install_data
+[8.917s] running egg_info
+[8.920s] writing ../../build/Autobot_Ver1/Autobot_Ver1.egg-info/PKG-INFO
+[8.921s] writing dependency_links to ../../build/Autobot_Ver1/Autobot_Ver1.egg-info/dependency_links.txt
+[8.921s] writing entry points to ../../build/Autobot_Ver1/Autobot_Ver1.egg-info/entry_points.txt
+[8.921s] writing requirements to ../../build/Autobot_Ver1/Autobot_Ver1.egg-info/requires.txt
+[8.921s] writing top-level names to ../../build/Autobot_Ver1/Autobot_Ver1.egg-info/top_level.txt
+[8.926s] reading manifest file '../../build/Autobot_Ver1/Autobot_Ver1.egg-info/SOURCES.txt'
+[8.928s] writing manifest file '../../build/Autobot_Ver1/Autobot_Ver1.egg-info/SOURCES.txt'
+[8.929s] running build
+[8.929s] running build_py
+[8.931s] copying Autobot_Ver1/Autobot_Ver1.py -> /home/darius/turtlebot3_ws/build/Autobot_Ver1/build/lib/Autobot_Ver1
+[8.932s] running install
+[8.933s] running install_lib
+[8.936s] copying /home/darius/turtlebot3_ws/build/Autobot_Ver1/build/lib/Autobot_Ver1/Autobot_Ver1.py -> /home/darius/turtlebot3_ws/install/Autobot_Ver1/lib/python3.10/site-packages/Autobot_Ver1
+[8.938s] byte-compiling /home/darius/turtlebot3_ws/install/Autobot_Ver1/lib/python3.10/site-packages/Autobot_Ver1/Autobot_Ver1.py to Autobot_Ver1.cpython-310.pyc
+[8.943s] running install_data
+[8.944s] running install_egg_info
+[8.950s] removing '/home/darius/turtlebot3_ws/install/Autobot_Ver1/lib/python3.10/site-packages/Autobot_Ver1-0.0.0-py3.10.egg-info' (and everything under it)
+[8.951s] Copying ../../build/Autobot_Ver1/Autobot_Ver1.egg-info to /home/darius/turtlebot3_ws/install/Autobot_Ver1/lib/python3.10/site-packages/Autobot_Ver1-0.0.0-py3.10.egg-info
+[8.953s] running install_scripts
+[9.024s] Installing Autobot_Ver1 script to /home/darius/turtlebot3_ws/install/Autobot_Ver1/lib/Autobot_Ver1
+[9.024s] writing list of installed files to '/home/darius/turtlebot3_ws/build/Autobot_Ver1/install.log'
+[9.095s] Invoked command in '/home/darius/turtlebot3_ws/src/Autobot_Ver1' returned '0': PYTHONPATH=/home/darius/turtlebot3_ws/build/Autobot_Ver1/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/darius/turtlebot3_ws/install/Autobot_Ver1/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/Autobot_Ver1 build --build-base /home/darius/turtlebot3_ws/build/Autobot_Ver1/build install --record /home/darius/turtlebot3_ws/build/Autobot_Ver1/install.log --single-version-externally-managed install_data

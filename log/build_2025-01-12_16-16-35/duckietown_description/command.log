@@ -1,0 +1,2 @@
+Invoking command in '/home/darius/turtlebot3_ws/build/duckietown_description': /usr/bin/cmake /home/darius/turtlebot3_ws/src/riabot/duckietown_description -DCATKIN_INSTALL_INTO_PREFIX_ROOT=0 -DCMAKE_INSTALL_PREFIX=/home/darius/turtlebot3_ws/install/duckietown_description
+Invoked command in '/home/darius/turtlebot3_ws/build/duckietown_description' returned '1': /usr/bin/cmake /home/darius/turtlebot3_ws/src/riabot/duckietown_description -DCATKIN_INSTALL_INTO_PREFIX_ROOT=0 -DCMAKE_INSTALL_PREFIX=/home/darius/turtlebot3_ws/install/duckietown_description

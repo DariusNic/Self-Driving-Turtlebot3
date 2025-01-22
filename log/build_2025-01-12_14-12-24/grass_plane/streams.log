@@ -1,0 +1,49 @@
+[0.397s] Invoking command in '/home/darius/turtlebot3_ws/build/grass_plane': /usr/bin/cmake /home/darius/turtlebot3_ws/src/gazebo_models_worlds_collection/models/grass_plane -DCMAKE_INSTALL_PREFIX=/home/darius/turtlebot3_ws/install/grass_plane
+[0.808s] -- The C compiler identification is GNU 11.4.0
+[0.809s] -- The CXX compiler identification is GNU 11.4.0
+[0.809s] -- Detecting C compiler ABI info
+[0.809s] [33mCMake Warning (dev) in CMakeLists.txt:
+[0.809s]   No project() command is present.  The top-level CMakeLists.txt file must
+[0.809s]   contain a literal, direct call to the project() command.  Add a line of
+[0.809s]   code such as
+[0.809s] 
+[0.810s]     project(ProjectName)
+[0.810s] 
+[0.810s]   near the top of the file, but after cmake_minimum_required().
+[0.810s] 
+[0.810s]   CMake is pretending there is a "project(Project)" command on the first
+[0.810s]   line.
+[0.810s] This warning is for project developers.  Use -Wno-dev to suppress it.
+[0.810s] [0m
+[0.976s] -- Detecting C compiler ABI info - done
+[1.000s] -- Check for working C compiler: /usr/bin/cc - skipped
+[1.000s] -- Detecting C compile features
+[1.001s] -- Detecting C compile features - done
+[1.010s] -- Detecting CXX compiler ABI info
+[1.208s] -- Detecting CXX compiler ABI info - done
+[1.229s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[1.230s] -- Detecting CXX compile features
+[1.231s] -- Detecting CXX compile features - done
+[1.235s] [33mCMake Warning (dev) in CMakeLists.txt:
+[1.236s]   No cmake_minimum_required command is present.  A line of code such as
+[1.236s] 
+[1.236s]     cmake_minimum_required(VERSION 3.22)
+[1.236s] 
+[1.236s]   should be added at the top of the file.  The version specified may be lower
+[1.236s]   if you wish to support older CMake versions for this project.  For more
+[1.236s]   information run "cmake --help-policy CMP0000".
+[1.237s] This warning is for project developers.  Use -Wno-dev to suppress it.
+[1.237s] [0m
+[1.237s] -- Configuring done
+[1.241s] -- Generating done
+[1.244s] -- Build files have been written to: /home/darius/turtlebot3_ws/build/grass_plane
+[1.487s] Invoked command in '/home/darius/turtlebot3_ws/build/grass_plane' returned '0': /usr/bin/cmake /home/darius/turtlebot3_ws/src/gazebo_models_worlds_collection/models/grass_plane -DCMAKE_INSTALL_PREFIX=/home/darius/turtlebot3_ws/install/grass_plane
+[1.491s] Invoking command in '/home/darius/turtlebot3_ws/build/grass_plane': /usr/bin/cmake --build /home/darius/turtlebot3_ws/build/grass_plane -- -j8 -l8
+[1.603s] Invoked command in '/home/darius/turtlebot3_ws/build/grass_plane' returned '0': /usr/bin/cmake --build /home/darius/turtlebot3_ws/build/grass_plane -- -j8 -l8
+[1.607s] Invoking command in '/home/darius/turtlebot3_ws/build/grass_plane': /usr/bin/cmake --install /home/darius/turtlebot3_ws/build/grass_plane
+[1.624s] -- Install configuration: ""
+[1.624s] -- Installing: /home/darius/turtlebot3_ws/install/grass_plane/share/Project/gazebo_models/environments/grass_plane/model.config
+[1.624s] -- Installing: /home/darius/turtlebot3_ws/install/grass_plane/share/Project/gazebo_models/environments/grass_plane/model.sdf
+[1.626s] -- Installing: /home/darius/turtlebot3_ws/install/grass_plane/share/Project/gazebo_models/environments/grass_plane/materials/scripts/grass.material
+[1.628s] -- Installing: /home/darius/turtlebot3_ws/install/grass_plane/share/Project/gazebo_models/environments/grass_plane/materials/textures/grass_dry.png
+[1.640s] Invoked command in '/home/darius/turtlebot3_ws/build/grass_plane' returned '0': /usr/bin/cmake --install /home/darius/turtlebot3_ws/build/grass_plane

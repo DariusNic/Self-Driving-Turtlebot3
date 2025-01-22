@@ -1,0 +1,42 @@
+[0.487s] Invoking command in '/home/darius/turtlebot3_ws/build/duckietown_gazebo': /usr/bin/cmake /home/darius/turtlebot3_ws/src/riabot/duckietown_gazebo -DCATKIN_INSTALL_INTO_PREFIX_ROOT=0 -DCMAKE_INSTALL_PREFIX=/home/darius/turtlebot3_ws/install/duckietown_gazebo
+[0.503s] [0mCMake Deprecation Warning at CMakeLists.txt:1 (cmake_minimum_required):
+[0.503s]   Compatibility with CMake < 2.8.12 will be removed from a future version of
+[0.503s]   CMake.
+[0.503s] 
+[0.503s]   Update the VERSION argument <min> value or use a ...<max> suffix to tell
+[0.503s]   CMake that the project does not need compatibility with older versions.
+[0.504s] 
+[0.504s] [0m
+[0.629s] -- The C compiler identification is GNU 11.4.0
+[0.780s] -- The CXX compiler identification is GNU 11.4.0
+[0.802s] -- Detecting C compiler ABI info
+[0.964s] -- Detecting C compiler ABI info - done
+[0.981s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.982s] -- Detecting C compile features
+[0.983s] -- Detecting C compile features - done
+[0.989s] -- Detecting CXX compiler ABI info
+[1.149s] -- Detecting CXX compiler ABI info - done
+[1.169s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[1.170s] -- Detecting CXX compile features
+[1.171s] -- Detecting CXX compile features - done
+[1.217s] -- Found Boost: /usr/lib/x86_64-linux-gnu/cmake/Boost-1.74.0/BoostConfig.cmake (found version "1.74.0") found components: system 
+[1.244s] [31mCMake Error at CMakeLists.txt:7 (find_package):
+[1.244s]   By not providing "Findcatkin.cmake" in CMAKE_MODULE_PATH this project has
+[1.244s]   asked CMake to find a package configuration file provided by "catkin", but
+[1.244s]   CMake did not find one.
+[1.245s] 
+[1.245s]   Could not find a package configuration file provided by "catkin" with any
+[1.245s]   of the following names:
+[1.245s] 
+[1.245s]     catkinConfig.cmake
+[1.245s]     catkin-config.cmake
+[1.245s] 
+[1.245s]   Add the installation prefix of "catkin" to CMAKE_PREFIX_PATH or set
+[1.245s]   "catkin_DIR" to a directory containing one of the above files.  If "catkin"
+[1.246s]   provides a separate development package or SDK, be sure it has been
+[1.246s]   installed.
+[1.246s] 
+[1.246s] [0m
+[1.246s] -- Configuring incomplete, errors occurred!
+[1.246s] See also "/home/darius/turtlebot3_ws/build/duckietown_gazebo/CMakeFiles/CMakeOutput.log".
+[1.417s] Invoked command in '/home/darius/turtlebot3_ws/build/duckietown_gazebo' returned '1': /usr/bin/cmake /home/darius/turtlebot3_ws/src/riabot/duckietown_gazebo -DCATKIN_INSTALL_INTO_PREFIX_ROOT=0 -DCMAKE_INSTALL_PREFIX=/home/darius/turtlebot3_ws/install/duckietown_gazebo

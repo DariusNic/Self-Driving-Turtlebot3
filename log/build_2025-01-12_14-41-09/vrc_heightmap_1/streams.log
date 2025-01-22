@@ -1,0 +1,48 @@
+[0.030s] Invoking command in '/home/darius/turtlebot3_ws/build/vrc_heightmap_1': /usr/bin/cmake /home/darius/turtlebot3_ws/src/gazebo_models_worlds_collection/models/vrc_heightmap_1 -DCMAKE_INSTALL_PREFIX=/home/darius/turtlebot3_ws/install/vrc_heightmap_1
+[0.049s] [33mCMake Warning (dev) in CMakeLists.txt:
+[0.049s]   No project() command is present.  The top-level CMakeLists.txt file must
+[0.049s]   contain a literal, direct call to the project() command.  Add a line of
+[0.049s]   code such as
+[0.049s] 
+[0.049s]     project(ProjectName)
+[0.050s] 
+[0.050s]   near the top of the file, but after cmake_minimum_required().
+[0.050s] 
+[0.050s]   CMake is pretending there is a "project(Project)" command on the first
+[0.050s]   line.
+[0.050s] This warning is for project developers.  Use -Wno-dev to suppress it.
+[0.050s] [0m
+[0.168s] -- The C compiler identification is GNU 11.4.0
+[0.297s] -- The CXX compiler identification is GNU 11.4.0
+[0.315s] -- Detecting C compiler ABI info
+[0.462s] -- Detecting C compiler ABI info - done
+[0.477s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.478s] -- Detecting C compile features
+[0.479s] -- Detecting C compile features - done
+[0.485s] -- Detecting CXX compiler ABI info
+[0.658s] -- Detecting CXX compiler ABI info - done
+[0.679s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.680s] -- Detecting CXX compile features
+[0.681s] -- Detecting CXX compile features - done
+[0.685s] [33mCMake Warning (dev) in CMakeLists.txt:
+[0.685s]   No cmake_minimum_required command is present.  A line of code such as
+[0.686s] 
+[0.686s]     cmake_minimum_required(VERSION 3.22)
+[0.686s] 
+[0.686s]   should be added at the top of the file.  The version specified may be lower
+[0.686s]   if you wish to support older CMake versions for this project.  For more
+[0.687s]   information run "cmake --help-policy CMP0000".
+[0.687s] This warning is for project developers.  Use -Wno-dev to suppress it.
+[0.687s] [0m
+[0.687s] -- Configuring done
+[0.692s] -- Generating done
+[0.696s] -- Build files have been written to: /home/darius/turtlebot3_ws/build/vrc_heightmap_1
+[0.712s] Invoked command in '/home/darius/turtlebot3_ws/build/vrc_heightmap_1' returned '0': /usr/bin/cmake /home/darius/turtlebot3_ws/src/gazebo_models_worlds_collection/models/vrc_heightmap_1 -DCMAKE_INSTALL_PREFIX=/home/darius/turtlebot3_ws/install/vrc_heightmap_1
+[0.712s] Invoking command in '/home/darius/turtlebot3_ws/build/vrc_heightmap_1': /usr/bin/cmake --build /home/darius/turtlebot3_ws/build/vrc_heightmap_1 -- -j8 -l8
+[0.810s] Invoked command in '/home/darius/turtlebot3_ws/build/vrc_heightmap_1' returned '0': /usr/bin/cmake --build /home/darius/turtlebot3_ws/build/vrc_heightmap_1 -- -j8 -l8
+[0.811s] Invoking command in '/home/darius/turtlebot3_ws/build/vrc_heightmap_1': /usr/bin/cmake --install /home/darius/turtlebot3_ws/build/vrc_heightmap_1
+[0.831s] -- Install configuration: ""
+[0.832s] -- Installing: /home/darius/turtlebot3_ws/install/vrc_heightmap_1/share/Project/gazebo_models/environments/vrc_heightmap_1/model.config
+[0.832s] -- Installing: /home/darius/turtlebot3_ws/install/vrc_heightmap_1/share/Project/gazebo_models/environments/vrc_heightmap_1/model.sdf
+[0.833s] -- Installing: /home/darius/turtlebot3_ws/install/vrc_heightmap_1/share/Project/gazebo_models/environments/vrc_heightmap_1/materials/textures/heightmap.png
+[0.861s] Invoked command in '/home/darius/turtlebot3_ws/build/vrc_heightmap_1' returned '0': /usr/bin/cmake --install /home/darius/turtlebot3_ws/build/vrc_heightmap_1

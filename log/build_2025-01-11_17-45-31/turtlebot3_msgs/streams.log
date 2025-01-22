@@ -1,0 +1,86 @@
+[0.040s] Invoking command in '/home/darius/turtlebot3_ws/build/turtlebot3_msgs': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/darius/turtlebot3_ws/src/turtlebot3_msgs -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/darius/turtlebot3_ws/install/turtlebot3_msgs
+[0.253s] -- The C compiler identification is GNU 11.4.0
+[0.449s] -- The CXX compiler identification is GNU 11.4.0
+[0.466s] -- Detecting C compiler ABI info
+[0.631s] -- Detecting C compiler ABI info - done
+[0.648s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.649s] -- Detecting C compile features
+[0.650s] -- Detecting C compile features - done
+[0.657s] -- Detecting CXX compiler ABI info
+[0.842s] -- Detecting CXX compiler ABI info - done
+[0.864s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.864s] -- Detecting CXX compile features
+[0.864s] -- Detecting CXX compile features - done
+[0.866s] -- Found action_msgs: 1.2.1 (/opt/ros/humble/share/action_msgs/cmake)
+[1.216s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[1.329s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[1.470s] -- Found rosidl_generator_c: 3.1.6 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+[1.484s] -- Found rosidl_adapter: 3.1.6 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[1.510s] -- Found rosidl_generator_cpp: 3.1.6 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+[1.552s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[1.600s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[1.716s] -- Found rosidl_default_generators: 1.2.0 (/opt/ros/humble/share/rosidl_default_generators/cmake)
+[1.740s] -- Found std_msgs: 4.2.4 (/opt/ros/humble/share/std_msgs/cmake)
+[2.412s] -- Found ament_cmake_cppcheck: 0.12.11 (/opt/ros/humble/share/ament_cmake_cppcheck/cmake)
+[2.418s] -- Found ament_cmake_cpplint: 0.12.11 (/opt/ros/humble/share/ament_cmake_cpplint/cmake)
+[2.424s] -- Found ament_cmake_uncrustify: 0.12.11 (/opt/ros/humble/share/ament_cmake_uncrustify/cmake)
+[2.429s] -- Found ament_cmake_ros: 0.10.0 (/opt/ros/humble/share/ament_cmake_ros/cmake)
+[3.091s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[3.359s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[3.398s] -- Found PythonInterp: /usr/bin/python3 (found suitable version "3.10.12", minimum required is "3.6") 
+[3.401s] -- Found python_cmake_module: 0.10.0 (/opt/ros/humble/share/python_cmake_module/cmake)
+[3.441s] -- Found PythonLibs: /usr/lib/x86_64-linux-gnu/libpython3.10.so (found suitable version "3.10.12", minimum required is "3.5") 
+[3.442s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[3.442s] -- Using PYTHON_INCLUDE_DIRS: /usr/include/python3.10
+[3.442s] -- Using PYTHON_LIBRARIES: /usr/lib/x86_64-linux-gnu/libpython3.10.so
+[3.481s] -- Found PythonExtra: .so  
+[3.583s] -- Found ament_cmake_flake8: 0.12.11 (/opt/ros/humble/share/ament_cmake_flake8/cmake)
+[3.588s] -- Found ament_cmake_pep257: 0.12.11 (/opt/ros/humble/share/ament_cmake_pep257/cmake)
+[3.606s] -- Configuring done
+[3.680s] -- Generating done
+[3.698s] -- Build files have been written to: /home/darius/turtlebot3_ws/build/turtlebot3_msgs
+[3.716s] Invoked command in '/home/darius/turtlebot3_ws/build/turtlebot3_msgs' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/darius/turtlebot3_ws/src/turtlebot3_msgs -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/darius/turtlebot3_ws/install/turtlebot3_msgs
+[3.719s] Invoking command in '/home/darius/turtlebot3_ws/build/turtlebot3_msgs': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/darius/turtlebot3_ws/build/turtlebot3_msgs
+[3.803s] [  1%] [34m[1mGenerating C++ code for ROS interfaces[0m
+[5.140s] [  1%] Built target turtlebot3_msgs__cpp
+[5.158s] [  2%] [34m[1mGenerating C++ type support dispatch for ROS interfaces[0m
+[6.072s] [  4%] [32mBuilding CXX object CMakeFiles/turtlebot3_msgs__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/turtlebot3_msgs/msg/sensor_state__type_support.cpp.o[0m
+[6.436s] [  5%] [32mBuilding CXX object CMakeFiles/turtlebot3_msgs__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/turtlebot3_msgs/msg/sound__type_support.cpp.o[0m
+[6.811s] [  7%] [32mBuilding CXX object CMakeFiles/turtlebot3_msgs__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/turtlebot3_msgs/msg/version_info__type_support.cpp.o[0m
+[7.162s] [  8%] [32mBuilding CXX object CMakeFiles/turtlebot3_msgs__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/turtlebot3_msgs/srv/sound__type_support.cpp.o[0m
+[7.499s] [  9%] [32mBuilding CXX object CMakeFiles/turtlebot3_msgs__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/turtlebot3_msgs/srv/dqn__type_support.cpp.o[0m
+[7.839s] [ 11%] [32mBuilding CXX object CMakeFiles/turtlebot3_msgs__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/turtlebot3_msgs/action/patrol__type_support.cpp.o[0m
+[8.425s] [ 12%] [32m[1mLinking CXX shared library libturtlebot3_msgs__rosidl_typesupport_cpp.so[0m
+[8.511s] [ 12%] Built target turtlebot3_msgs__rosidl_typesupport_cpp
+[8.529s] [ 14%] [34m[1mGenerating C code for ROS interfaces[0m
+[8.798s] Traceback (most recent call last):
+[8.798s]   File "/opt/ros/humble/share/rosidl_generator_c/cmake/../../../lib/rosidl_generator_c/rosidl_generator_c", line 38, in <module>
+[8.799s]     sys.exit(main())
+[8.799s]   File "/opt/ros/humble/share/rosidl_generator_c/cmake/../../../lib/rosidl_generator_c/rosidl_generator_c", line 34, in main
+[8.799s]     generate_c(args.generator_arguments_file)
+[8.799s]   File "/opt/ros/humble/local/lib/python3.10/dist-packages/rosidl_generator_c/__init__.py", line 37, in generate_c
+[8.800s]     return generate_files(
+[8.800s]   File "/opt/ros/humble/local/lib/python3.10/dist-packages/rosidl_cmake/__init__.py", line 74, in generate_files
+[8.800s]     idl_file = parse_idl_file(locator)
+[8.800s]   File "/opt/ros/humble/local/lib/python3.10/dist-packages/rosidl_parser/parser.py", line 64, in parse_idl_file
+[8.801s]     content = parse_idl_string(string, png_file=png_file)
+[8.801s]   File "/opt/ros/humble/local/lib/python3.10/dist-packages/rosidl_parser/parser.py", line 72, in parse_idl_string
+[8.801s]     tree = get_ast_from_idl_string(idl_string)
+[8.801s]   File "/opt/ros/humble/local/lib/python3.10/dist-packages/rosidl_parser/parser.py", line 89, in get_ast_from_idl_string
+[8.801s]     return _parser.parse(idl_string)
+[8.802s]   File "/usr/lib/python3/dist-packages/lark/lark.py", line 619, in parse
+[8.810s]     return self.parser.parse(text, start=start, on_error=on_error)
+[8.810s]   File "/usr/lib/python3/dist-packages/lark/parser_frontends.py", line 99, in parse
+[8.810s]     return self.parser.parse(stream, chosen_start, **kw)
+[8.810s]   File "/usr/lib/python3/dist-packages/lark/parsers/earley.py", line 266, in parse
+[8.810s]     to_scan = self._parse(lexer, columns, to_scan, start_symbol)
+[8.810s]   File "/usr/lib/python3/dist-packages/lark/parsers/xearley.py", line 144, in _parse
+[8.812s]     self.predict_and_complete(i, to_scan, columns, transitives)
+[8.812s]   File "/usr/lib/python3/dist-packages/lark/parsers/earley.py", line 140, in predict_and_complete
+[8.812s]     new_item = Item(rule, 0, i)
+[8.812s]   File "/usr/lib/python3/dist-packages/lark/parsers/earley_common.py", line 22, in __init__
+[8.812s]     self.previous = rule.expansion[ptr - 1] if ptr > 0 and len(rule.expansion) else None
+[8.812s] KeyboardInterrupt
+[8.837s] gmake[2]: *** [CMakeFiles/turtlebot3_msgs__rosidl_generator_c.dir/build.make:129: rosidl_generator_c/turtlebot3_msgs/msg/sensor_state.h] Interrupt
+[8.838s] gmake[1]: *** [CMakeFiles/Makefile2:212: CMakeFiles/turtlebot3_msgs__rosidl_generator_c.dir/all] Interrupt
+[8.838s] gmake: *** [Makefile:146: all] Interrupt

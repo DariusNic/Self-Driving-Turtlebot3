@@ -1,0 +1,29 @@
+[0.753s] Invoking command in '/home/darius/turtlebot3_ws/build/duckietown_gazebo': /usr/bin/cmake /home/darius/turtlebot3_ws/src/riabot/duckietown_gazebo -DCATKIN_INSTALL_INTO_PREFIX_ROOT=0 -DCMAKE_INSTALL_PREFIX=/home/darius/turtlebot3_ws/install/duckietown_gazebo
+[0.791s] [0mCMake Deprecation Warning at CMakeLists.txt:1 (cmake_minimum_required):
+[0.791s]   Compatibility with CMake < 2.8.12 will be removed from a future version of
+[0.791s]   CMake.
+[0.792s] 
+[0.792s]   Update the VERSION argument <min> value or use a ...<max> suffix to tell
+[0.796s]   CMake that the project does not need compatibility with older versions.
+[0.796s] 
+[0.796s] [0m
+[0.860s] [31mCMake Error at CMakeLists.txt:7 (find_package):
+[0.860s]   By not providing "Findcatkin.cmake" in CMAKE_MODULE_PATH this project has
+[0.860s]   asked CMake to find a package configuration file provided by "catkin", but
+[0.860s]   CMake did not find one.
+[0.860s] 
+[0.860s]   Could not find a package configuration file provided by "catkin" with any
+[0.861s]   of the following names:
+[0.861s] 
+[0.861s]     catkinConfig.cmake
+[0.861s]     catkin-config.cmake
+[0.861s] 
+[0.866s]   Add the installation prefix of "catkin" to CMAKE_PREFIX_PATH or set
+[0.869s]   "catkin_DIR" to a directory containing one of the above files.  If "catkin"
+[0.869s]   provides a separate development package or SDK, be sure it has been
+[0.869s]   installed.
+[0.869s] 
+[0.869s] -- Configuring incomplete, errors occurred!
+[0.870s] See also "/home/darius/turtlebot3_ws/build/duckietown_gazebo/CMakeFiles/CMakeOutput.log".
+[0.870s] [0m
+[0.986s] Invoked command in '/home/darius/turtlebot3_ws/build/duckietown_gazebo' returned '1': /usr/bin/cmake /home/darius/turtlebot3_ws/src/riabot/duckietown_gazebo -DCATKIN_INSTALL_INTO_PREFIX_ROOT=0 -DCMAKE_INSTALL_PREFIX=/home/darius/turtlebot3_ws/install/duckietown_gazebo
